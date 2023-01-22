@@ -1,0 +1,22 @@
+{
+    "id": 0,
+    "name": "straight_line",
+    "reversed": false,
+    "waypoints": [
+        {
+        "x": 0,
+        "y": 0,
+        "track": 180,
+        "heading": 0,
+        "comment": ""
+        },
+        {
+        "x": -300,
+        "y": 0,
+        "track": 180,
+        "heading": 0,
+        "comment": ""
+        }
+    ]
+}
+  
