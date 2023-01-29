@@ -11,14 +11,21 @@
         "comment": ""
       },
       {
-        "x": 150,
-        "y": 0,
+        "x": 90,
+        "y": -50,
         "track": 0,
-        "heading": 45,
+        "heading": 90,
         "comment": ""
       },
       {
-        "x": 300,
+        "x": 110,
+        "y": -50,
+        "track": 0,
+        "heading": 90,
+        "comment": ""
+      },
+      {
+        "x": 200,
         "y": 0,
         "track": 0,
         "heading": 0,
