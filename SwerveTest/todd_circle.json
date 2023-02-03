@@ -14,21 +14,21 @@
             "x": 50,
             "y": -50,
             "track": 0,
-            "heading": 90,
+            "heading": 0,
             "comment": ""
         },
         {
             "x": 100,
             "y": 0,
             "track": 90,
-            "heading": 180,
+            "heading": 0,
             "comment": ""
         },
         {
             "x": 50,
             "y": 50,
             "track": 180,
-            "heading": -90,
+            "heading": 0,
             "comment": ""
         },
         {
@@ -40,4 +40,3 @@
         }
     ]
 }
-  
