@@ -1,6 +1,6 @@
 {
     "id": 0,
-    "name": "straight_line",
+    "name": "pickup_piece2",
     "reversed": false,
     "waypoints": [
         {
@@ -11,12 +11,11 @@
         "comment": ""
         },
         {
-        "x": 180,
-        "y": 0,
-        "track": 0,
-        "heading": 0,
+        "x": 191,
+        "y": -40,
+        "track": -45,
+        "heading": -45,
         "comment": ""
         }
     ]
 }
- 
