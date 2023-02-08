@@ -1,0 +1,28 @@
+{
+    "id": 0,
+    "name": "correct_start",
+    "reversed": false,
+    "waypoints": [
+        {
+            "x": 80.0,
+            "y": -185.0,
+            "track": 0.0,
+            "heading": 0.0,
+            "comment": ""
+        },
+        {
+            "x": 160.0,
+            "y": -185.0,
+            "track": 0.0,
+            "heading": 0.0,
+            "comment": ""
+        },
+        {
+            "x": 267.0,
+            "y": -145.0,
+            "track": 45.0,
+            "heading": 45.0,
+            "comment": ""
+        }
+    ]
+}
