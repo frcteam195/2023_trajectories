@@ -13,8 +13,8 @@
                     "comment": ""
                 },
                 {
-                    "x": 259.0,
-                    "y": -135.0,
+                    "x": 270.0,
+                    "y": -136.0,
                     "track": 0.0,
                     "heading": 0.0,
                     "comment": ""
@@ -25,15 +25,15 @@
             "name": "CubeLoadingTwoPieceScore",
             "waypoints": [
                 {
-                    "x": 259.0,
-                    "y": -135.0,
+                    "x": 270.0,
+                    "y": -136.0,
                     "track": 180.0,
                     "heading": 0.0,
                     "comment": ""
                 },
                 {
-                    "x": 71.0,
-                    "y": -142.0,
+                    "x": 74.0,
+                    "y": -122.0,
                     "track": 180.0,
                     "heading": 0.0,
                     "comment": ""
