@@ -6,15 +6,15 @@
             "name": "CubeLoadingTwoPieceGather",
             "waypoints": [
                 {
-                    "x": 74.0,
-                    "y": -142.0,
+                    "x": 72.0,
+                    "y": -176.0,
                     "track": 0.0,
                     "heading": 0.0,
                     "comment": ""
                 },
                 {
-                    "x": 270.0,
-                    "y": -136.0,
+                    "x": 271.0,
+                    "y": -180.0,
                     "track": 0.0,
                     "heading": 0.0,
                     "comment": ""
@@ -25,15 +25,15 @@
             "name": "CubeLoadingTwoPieceScore",
             "waypoints": [
                 {
-                    "x": 270.0,
-                    "y": -136.0,
+                    "x": 271.0,
+                    "y": -180.0,
                     "track": 180.0,
                     "heading": 0.0,
                     "comment": ""
                 },
                 {
-                    "x": 74.0,
-                    "y": -122.0,
+                    "x": 72.0,
+                    "y": -200.0,
                     "track": 180.0,
                     "heading": 0.0,
                     "comment": ""
