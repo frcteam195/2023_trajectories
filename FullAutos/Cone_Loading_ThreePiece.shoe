@@ -1,0 +1,90 @@
+{
+   "name": "Cone_Loading_ThreePiece",
+   "path_count": 4,
+   "paths": [
+       {
+           "name": "path1",
+           "waypoints": [
+               {
+                   "x": 61.0,
+                   "y": -195.0,
+                   "track": 0.0,
+                   "heading": 0.0,
+                   "comment": ""
+               },
+               {
+                   "x": 279.0,
+                   "y": -180.0,
+                   "track": 3.0,
+                   "heading": 0.0,
+                   "comment": ""
+               }
+           ]
+       },
+       {
+           "name": "path2",
+           "waypoints": [
+               {
+                   "x": 279.0,
+                   "y": -180.0,
+                   "track": 180.0,
+                   "heading": 0.0,
+                   "comment": ""
+               },
+               {
+                   "x": 73.0,
+                   "y": -175.0,
+                   "track": 180.0,
+                   "heading": 0.0,
+                   "comment": ""
+               }
+           ]
+       },
+       {
+           "name": "path3",
+           "waypoints": [
+               {
+                   "x": 73.0,
+                   "y": -175.0,
+                   "track": 180.0,
+                   "heading": 0.0,
+                   "comment": ""
+               },
+               {
+                   "x": 168.0,
+                   "y": -174.0,
+                   "track": -1.0,
+                   "heading": 0.0,
+                   "comment": ""
+               },
+               {
+                   "x": 279.0,
+                   "y": -133.0,
+                   "track": 20.0,
+                   "heading": 0.0,
+                   "comment": ""
+               }
+           ]
+       },
+       {
+           "name": "path4",
+           "waypoints": [
+               {
+                   "x": 279.0,
+                   "y": -133.0,
+                   "track": 180.0,
+                   "heading": 0.0,
+                   "comment": ""
+               },
+               {
+                   "x": 154.0,
+                   "y": -104.0,
+                   "track": 180.0,
+                   "heading": 0.0,
+                   "comment": ""
+               }
+           ]
+       }
+   ]
+}
+
