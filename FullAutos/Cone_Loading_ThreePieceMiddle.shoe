@@ -1,21 +1,21 @@
 {
-    "name": "Cone_Loading_ThreePieceClimb",
+    "name": "Cone_Loading_ThreePieceMiddle",
     "path_count": 5,
     "paths": [
         {
             "name": "GatherCube1",
             "waypoints": [
                 {
-                    "x": 77.0,
+                    "x": 76.0,
                     "y": -190.0,
                     "track": 0.0,
                     "heading": 0.0,
                     "comment": ""
                 },
                 {
-                    "x": 262.0,
+                    "x": 259.0,
                     "y": -180.0,
-                    "track": 3.0,
+                    "track": 0.0,
                     "heading": 0.0,
                     "comment": ""
                 }
@@ -25,16 +25,16 @@
             "name": "ScoreCube1",
             "waypoints": [
                 {
-                    "x": 262.0,
+                    "x": 259.0,
                     "y": -180.0,
-                    "track": 178.0,
+                    "track": 180.0,
                     "heading": 0.0,
                     "comment": ""
                 },
                 {
-                    "x": 75.0,
-                    "y": -176.0,
-                    "track": 178.0,
+                    "x": 74.0,
+                    "y": -179.0,
+                    "track": 180.0,
                     "heading": 0.0,
                     "comment": ""
                 }
@@ -44,15 +44,15 @@
             "name": "GatherCube2",
             "waypoints": [
                 {
-                    "x": 75.0,
-                    "y": -176.0,
+                    "x": 74.0,
+                    "y": -179.0,
                     "track": 0.0,
                     "heading": 0.0,
                     "comment": ""
                 },
                 {
-                    "x": 222.0,
-                    "y": -176.0,
+                    "x": 212.0,
+                    "y": -179.0,
                     "track": 0.0,
                     "heading": 0.0,
                     "comment": ""
@@ -60,7 +60,7 @@
                 {
                     "x": 254.0,
                     "y": -133.0,
-                    "track": 35.0,
+                    "track": 0.0,
                     "heading": 0.0,
                     "comment": ""
                 }
@@ -72,33 +72,47 @@
                 {
                     "x": 254.0,
                     "y": -133.0,
-                    "track": 158.0,
+                    "track": 180.0,
                     "heading": 0.0,
                     "comment": ""
                 },
                 {
-                    "x": 75.0,
-                    "y": -110.0,
-                    "track": 172.0,
+                    "x": 224.0,
+                    "y": -182.0,
+                    "track": 180.0,
+                    "heading": 0.0,
+                    "comment": ""
+                },
+                {
+                    "x": 74.0,
+                    "y": -179.0,
+                    "track": 180.0,
                     "heading": 0.0,
                     "comment": ""
                 }
             ]
         },
         {
-            "name": "Climb",
+            "name": "MoveToMiddle",
             "waypoints": [
                 {
-                    "x": 75.0,
-                    "y": -110.0,
+                    "x": 74.0,
+                    "y": -179.0,
                     "track": 0.0,
                     "heading": 0.0,
                     "comment": ""
                 },
                 {
-                    "x": 154.0,
-                    "y": -108.0,
-                    "track": 1.0,
+                    "x": 212.0,
+                    "y": -180.0,
+                    "track": 0.0,
+                    "heading": 0.0,
+                    "comment": ""
+                },
+                {
+                    "x": 305.0,
+                    "y": -152.0,
+                    "track": 0.0,
                     "heading": 0.0,
                     "comment": ""
                 }
