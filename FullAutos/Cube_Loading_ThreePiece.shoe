@@ -1,9 +1,9 @@
 {
-    "name": "Cube_Loading_TwoPiece",
-    "path_count": 2,
+    "name": "Cube_Loading_ThreePiece",
+    "path_count": 4,
     "paths": [
         {
-            "name": "CubeLoadingTwoPieceGather",
+            "name": "SecondPieceGather",
             "waypoints": [
                 {
                     "x": 69.748,
@@ -22,7 +22,7 @@
             ]
         },
         {
-            "name": "CubeLoadingTwoPieceScore",
+            "name": "SecondPieceScore",
             "waypoints": [
                 {
                     "x": 284.0,
@@ -41,7 +41,7 @@
             ]
         },
         {
-            "name": "CubeLoadingThirdPiece",
+            "name": "ThirdPieceGather",
             "waypoints": [
                 {
                     "x": 75.0,
@@ -67,7 +67,7 @@
             ]
         },
         {
-            "name": "CubeLoadingThirdPieceScore",
+            "name": "ThirdPieceScore",
             "waypoints": [
                 {
                     "x": 278.3465,
