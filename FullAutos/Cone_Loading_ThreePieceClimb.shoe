@@ -32,8 +32,8 @@
                     "comment": ""
                 },
                 {
-                    "x": 75.0,
-                    "y": -176.0,
+                    "x": 80.0,
+                    "y": -175.0,
                     "track": 178.0,
                     "heading": 0.0,
                     "comment": ""
@@ -44,17 +44,17 @@
             "name": "GatherCube2",
             "waypoints": [
                 {
-                    "x": 75.0,
-                    "y": -176.0,
+                    "x": 80.0,
+                    "y": -175.0,
                     "track": 0.0,
                     "heading": 0.0,
                     "comment": ""
                 },
                 {
-                    "x": 263.0,
-                    "y": -147.0,
+                    "x": 270.0,
+                    "y": -148.0,
                     "track": 40.0,
-                    "heading": 33.0,
+                    "heading": 50.0,
                     "comment": ""
                 }
             ]
@@ -63,10 +63,10 @@
             "name": "ScoreCube2",
             "waypoints": [
                 {
-                    "x": 263.0,
-                    "y": -147.0,
+                    "x": 270.0,
+                    "y": -148.0,
                     "track": -140.0,
-                    "heading": 33.0,
+                    "heading": 50.0,
                     "comment": ""
                 },
                 {
