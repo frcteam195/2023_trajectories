@@ -39,6 +39,58 @@
                     "comment": ""
                 }
             ]
+        },
+        {
+            "name": "CubeLoadingThirdPiece",
+            "waypoints": [
+                {
+                    "x": 75.0,
+                    "y": -198.5,
+                    "track": 0.0,
+                    "heading": 0.0,
+                    "comment": ""
+                },
+                {
+                    "x": 197,
+                    "y": -185,
+                    "track": 22.0,
+                    "heading": 22.0,
+                    "comment": ""
+                },
+                {
+                    "x": 278.3465,
+                    "y": -132.72,
+                    "track": 45.0,
+                    "heading": 45.0,
+                    "comment": ""
+                }
+            ]
+        },
+        {
+            "name": "CubeLoadingThirdPieceScore",
+            "waypoints": [
+                {
+                    "x": 278.3465,
+                    "y": -132.72,
+                    "track": 225.0,
+                    "heading": 45.0,
+                    "comment": ""
+                },
+                {
+                    "x": 197,
+                    "y": -185,
+                    "track": 180.0,
+                    "heading": 22.0,
+                    "comment": ""
+                },
+                {
+                    "x": 75.0,
+                    "y": -174.5,
+                    "track": 180.0,
+                    "heading": 0.0,
+                    "comment": ""
+                }
+            ]
         }
     ]
 }
