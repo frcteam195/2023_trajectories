@@ -6,14 +6,14 @@
             "name": "GatherConePath",
             "waypoints": [
                 {
-                    "x": 74.0,
-                    "y": -193.0,
+                    "x": 77.0,
+                    "y": -185.0,
                     "track": 0.0,
                     "heading": 0.0,
                     "comment": ""
                 },
                 {
-                    "x": 270.0,
+                    "x": 275.0,
                     "y": -182.0,
                     "track": 0.0,
                     "heading": 0.0,
@@ -25,15 +25,15 @@
             "name": "ScoreConePath",
             "waypoints": [
                 {
-                    "x": 270.0,
+                    "x": 275.0,
                     "y": -182.0,
                     "track": 180.0,
                     "heading": 0.0,
                     "comment": ""
                 },
                 {
-                    "x": 74.0,
-                    "y": -193.0,
+                    "x": 77.0,
+                    "y": -185.0,
                     "track": 180.0,
                     "heading": 0.0,
                     "comment": ""
