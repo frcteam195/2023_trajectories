@@ -1,0 +1,113 @@
+{
+   "name": "Cone_Loading_ThreePieceMidLink",
+   "path_count": 4,
+   "paths": [
+       {
+           "name": "GatherCone1",
+           "waypoints": [
+               {
+                   "x": 72.0,
+                   "y": -198.5,
+                   "track": 0.0,
+                   "heading": 0.0,
+                   "comment": ""
+               },
+               {
+                   "x": 262.0,
+                   "y": -180.0,
+                   "track": 3.0,
+                   "heading": 0.0,
+                   "comment": ""
+               }
+           ]
+       },
+       {
+           "name": "ScoreCone1",
+           "waypoints": [
+               {
+                   "x": 262.0,
+                   "y": -180.0,
+                   "track": 180.0,
+                   "heading": 0.0,
+                   "comment": ""
+               },
+               {
+                   "x": 103.0,
+                   "y": -180.0,
+                   "track": 180.0,
+                   "heading": 0.0,
+                   "comment": ""
+               },
+               {
+                   "x": 80.0,
+                   "y": -153.0,
+                   "track": 180.0,
+                   "heading": 0.0,
+                   "comment": ""
+               }
+           ]
+       },
+       {
+           "name": "GatherCube1",
+           "waypoints": [
+               {
+                   "x": 80.0,
+                   "y": -153.0,
+                   "track": 180.0,
+                   "heading": 0.0,
+                   "comment": ""
+               },
+               {
+                   "x": 85.0,
+                   "y": -175.0,
+                   "track": 0.0,
+                   "heading": 0.0,
+                   "comment": ""
+               },
+               {
+                   "x": 264.0,
+                   "y": -135.0,
+                   "track": 45.0,
+                   "heading": 45.0,
+                   "comment": ""
+               }
+           ]
+       },
+       {
+           "name": "ScoreCube1+Climb",
+           "waypoints": [
+               {
+                   "x": 264.0,
+                   "y": -135.0,
+                   "track": -140.0,
+                   "heading": 45.0,
+                   "comment": ""
+               },
+               {
+                   "x": 75.0,
+                   "y": -179.0,
+                   "track": 180.0,
+                   "heading": 0.0,
+                   "comment": ""
+               },
+               {
+                   "x": 75.0,
+                   "y": -178.0,
+                   "track": 91.0,
+                   "heading": 0.0,
+                   "comment": ""
+               },
+               {
+                   "x": 204.0,
+                   "y": -116.0,
+                   "track": -3.0,
+                   "heading": 0.0,
+                   "comment": ""
+               }
+           ]
+       }
+   ]
+}
+
+
+
