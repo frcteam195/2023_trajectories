@@ -63,7 +63,7 @@
            "name": "path4",
            "waypoints": [
                {
-                   "x": 264.0
+                   "x": 264.0,
                    "y": -135.0,
                    "track": 149.0,
                    "heading": 45.0,
