@@ -1,5 +1,5 @@
 {
-    "name": "Cone_Loading_ThreePieceClimb",
+    "name": "Cone_Loading_ThreePieceClimbTest",
     "path_count": 5,
     "paths": [
         {
@@ -13,7 +13,7 @@
                     "comment": ""
                 },
                 {
-                    "x": 262.0,
+                    "x": 258.0,
                     "y": -180.0,
                     "track": 3.0,
                     "heading": 0.0,
@@ -25,14 +25,14 @@
             "name": "ScoreCube1",
             "waypoints": [
                 {
-                    "x": 262.0,
+                    "x": 258.0,
                     "y": -180.0,
                     "track": 178.0,
                     "heading": 0.0,
                     "comment": ""
                 },
                 {
-                    "x": 80.0,
+                    "x": 83.0,
                     "y": -175.0,
                     "track": 178.0,
                     "heading": 0.0,
@@ -44,15 +44,15 @@
             "name": "GatherCube2",
             "waypoints": [
                 {
-                    "x": 80.0,
+                    "x": 83.0,
                     "y": -175.0,
                     "track": 0.0,
                     "heading": 0.0,
                     "comment": ""
                 },
                 {
-                    "x": 264.0,
-                    "y": -135.0,
+                    "x": 260.0,
+                    "y": -139.0,
                     "track": 45.0,
                     "heading": 45.0,
                     "comment": ""
@@ -63,15 +63,15 @@
             "name": "ScoreCube2",
             "waypoints": [
                 {
-                    "x": 264.0,
-                    "y": -135.0,
+                    "x": 260.0,
+                    "y": -139.0,
                     "track": -140.0,
                     "heading": 45.0,
                     "comment": ""
                 },
                 {
-                    "x": 80.0,
-                    "y": -179.0,
+                    "x": 83.0,
+                    "y": -175.0,
                     "track": 180.0,
                     "heading": 0.0,
                     "comment": ""
@@ -82,15 +82,15 @@
             "name": "Climb",
             "waypoints": [
                 {
-                    "x": 80.0,
-                    "y": -179.0,
+                    "x": 83.0,
+                    "y": -175.0,
                     "track": 91.0,
                     "heading": 0.0,
                     "comment": ""
                 },
                 {
-                    "x": 200.0,
-                    "y": -116.0,
+                    "x": 195.0,
+                    "y": -127.0,
                     "track": -3.0,
                     "heading": 0.0,
                     "comment": ""
