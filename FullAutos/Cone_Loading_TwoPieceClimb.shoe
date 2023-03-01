@@ -4,7 +4,7 @@
     "paths": [
         {
             "name": "GatherCube1",
-            "max_velocity": 80,
+            "max_velocity": 110,
             "waypoints": [
                 {
                     "x": 72.0,
