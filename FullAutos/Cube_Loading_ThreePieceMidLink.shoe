@@ -1,13 +1,13 @@
 {
-   "name": "Cone_Loading_ThreePieceMidLink",
-   "path_count": 4,
+   "name": "Cube_Loading_ThreePieceMidLink",
+   "path_count": 5,
    "paths": [
        {
            "name": "GatherCone1",
            "waypoints": [
                {
-                   "x": 72.0,
-                   "y": -198.5,
+                   "x": 74.0,
+                   "y": -175.0,
                    "track": 0.0,
                    "heading": 0.0,
                    "comment": ""
@@ -39,7 +39,7 @@
                    "comment": ""
                },
                {
-                   "x": 80.0,
+                   "x": 85.0,
                    "y": -153.0,
                    "track": 180.0,
                    "heading": 0.0,
@@ -48,17 +48,17 @@
            ]
        },
        {
-           "name": "GatherCube1",
+           "name": "GatherCone2",
            "waypoints": [
                {
-                   "x": 80.0,
+                   "x": 85.0,
                    "y": -153.0,
                    "track": 180.0,
                    "heading": 0.0,
                    "comment": ""
                },
                {
-                   "x": 85.0,
+                   "x": 86.0,
                    "y": -175.0,
                    "track": 0.0,
                    "heading": 0.0,
@@ -74,34 +74,46 @@
            ]
        },
        {
-           "name": "ScoreCube1+Climb",
+           "name": "ScoreCone2",
            "waypoints": [
                {
                    "x": 264.0,
                    "y": -135.0,
-                   "track": -140.0,
+                   "track": 215.0,
                    "heading": 45.0,
                    "comment": ""
                },
                {
-                   "x": 205.0,
+                   "x": 80.0,
                    "y": -195.0,
-                   "track": 170.0,
-                   "heading": 270.0,
+                   "track": 180.0,
+                   "heading": 0.0,
+                   "comment": ""
+               }
+           ]
+       },
+       {
+           "name": "ToCenter",
+           "waypoints": [
+               {
+                   "x": 80.0,
+                   "y": -195.0,
+                   "track": 0.0,
+                   "heading": 0.0,
                    "comment": ""
                },
                {
-                   "x": 93.0,
-                   "y": -137.0,
-                   "track": 69.0,
-                   "heading": 200.0,
+                   "x": 197.0,
+                   "y": -195.0,
+                   "track": 0.0,
+                   "heading": 2.0,
                    "comment": ""
                },
                {
-                   "x": 204.0,
-                   "y": -116.0,
-                   "track": -3.0,
-                   "heading": 180.0,
+                   "x": 286.0,
+                   "y": -223.0,
+                   "track": -18.0,
+                   "heading": -18.0,
                    "comment": ""
                }
            ]
