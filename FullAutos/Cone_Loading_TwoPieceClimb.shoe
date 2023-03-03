@@ -42,6 +42,7 @@
         },
         {
             "name": "Climb",
+            "max_velocity": 80,
             "waypoints": [
                 {
                     "x": 81.0,
