@@ -9,14 +9,14 @@
                    "x": 74.0,
                    "y": -175.0,
                    "track": 0.0,
-                   "heading": 0.0,
+                   "heading": 180.0,
                    "comment": ""
                },
                {
                    "x": 268.0,
                    "y": -180.0,
                    "track": 3.0,
-                   "heading": 0.0,
+                   "heading": 180.0,
                    "comment": ""
                }
            ]
@@ -28,21 +28,28 @@
                    "x": 268.0,
                    "y": -180.0,
                    "track": 180.0,
-                   "heading": 0.0,
+                   "heading": 180.0,
                    "comment": ""
                },
                {
                    "x": 116.0,
                    "y": -180.0,
                    "track": 180.0,
-                   "heading": 0.0,
+                   "heading": 180.0,
+                   "comment": ""
+               },
+               {
+                   "x": 84.0,
+                   "y": -155.0,
+                   "track": 140.0,
+                   "heading": 180.0,
                    "comment": ""
                },
                {
                    "x": 80.0,
-                   "y": -152.0,
+                   "y": -155.0,
                    "track": 140.0,
-                   "heading": 0.0,
+                   "heading": 180.0,
                    "comment": ""
                }
            ]
@@ -52,23 +59,30 @@
            "waypoints": [
                {
                    "x": 80.0,
-                   "y": -152.0,
+                   "y": -155.0,
                    "track": 305.0,
-                   "heading": 0.0,
+                   "heading": 180.0,
                    "comment": ""
                },
                {
                    "x": 154.0,
                    "y": -186.0,
                    "track": 0.0,
-                   "heading": 0.0,
+                   "heading": 180.0,
+                   "comment": ""
+               },
+               {
+                   "x": 257.0,
+                   "y": -152.0,
+                   "track": 45.0,
+                   "heading": 225.0,
                    "comment": ""
                },
                {
                    "x": 274.0,
                    "y": -136.0,
                    "track": 45.0,
-                   "heading": 45.0,
+                   "heading": 225.0,
                    "comment": ""
                }
            ]
@@ -80,21 +94,21 @@
                    "x": 274.0,
                    "y": -136.0,
                    "track": 215.0,
-                   "heading": 45.0,
+                   "heading": 225.0,
                    "comment": ""
                },
                {
-                   "x": 90.0,
-                   "y": -196.0,
+                   "x": 100.0,
+                   "y": -198.0,
                    "track": 180.0,
-                   "heading": 0.0,
+                   "heading": 180.0,
                    "comment": ""
                },
                {
                    "x": 82.0,
-                   "y": -196.0,
+                   "y": -198.0,
                    "track": 180.0,
-                   "heading": 0.0,
+                   "heading": 180.0,
                    "comment": ""
                }
            ]
@@ -104,27 +118,29 @@
            "waypoints": [
                {
                    "x": 82.0,
-                   "y": -196.0,
+                   "y": -198.0,
                    "track": 0.0,
-                   "heading": 0.0,
+                   "heading": 180.0,
                    "comment": ""
                },
                {
                    "x": 197.0,
                    "y": -196.0,
                    "track": 0.0,
-                   "heading": 0.0,
+                   "heading": 180.0,
                    "comment": ""
                },
                {
                    "x": 286.0,
                    "y": -223.0,
                    "track": -18.0,
-                   "heading": -18.0,
+                   "heading": 162.0,
                    "comment": ""
                }
            ]
        }
    ]
 }
+
+
 
