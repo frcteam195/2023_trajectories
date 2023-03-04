@@ -13,8 +13,8 @@
                     "comment": ""
                 },
                 {
-                    "x": 262.0,
-                    "y": -185.0,
+                    "x": 268.0,
+                    "y": -181.0,
                     "track": 3.0,
                     "heading": 180.0,
                     "comment": ""
@@ -25,15 +25,15 @@
             "name": "ScoreCone1",
             "waypoints": [
                 {
-                    "x": 262.0,
-                    "y": -185.0,
+                    "x": 268.0,
+                    "y": -181.0,
                     "track": 180.0,
                     "heading": 180.0,
                     "comment": ""
                 },
                 {
                     "x": 81.0,
-                    "y": -197.5,
+                    "y": -192.0,
                     "track": 180.0,
                     "heading": 180.0,
                     "comment": ""
@@ -42,10 +42,11 @@
         },
         {
             "name": "Climb",
+            "max_velocity": 70,
             "waypoints": [
                 {
                     "x": 81.0,
-                    "y": -197.5,
+                    "y": -192.0,
                     "track": 91.0,
                     "heading": 180.0,
                     "comment": ""
