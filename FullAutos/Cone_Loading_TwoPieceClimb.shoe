@@ -3,7 +3,7 @@
     "path_count": 3,
     "paths": [
         {
-            "name": "GatherCone1",
+            "name": "GatherCone",
             "waypoints": [
                 {
                     "x": 72.0,
@@ -22,7 +22,7 @@
             ]
         },
         {
-            "name": "ScoreCone1",
+            "name": "ScoreCone",
             "waypoints": [
                 {
                     "x": 272.0,
@@ -42,7 +42,7 @@
         },
         {
             "name": "Climb",
-            "max_velocity": 70,
+            "max_velocity": 60,
             "waypoints": [
                 {
                     "x": 84.0,
