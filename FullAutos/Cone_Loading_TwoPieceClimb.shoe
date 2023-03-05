@@ -13,7 +13,7 @@
                     "comment": ""
                 },
                 {
-                    "x": 268.0,
+                    "x": 272.0,
                     "y": -181.0,
                     "track": 3.0,
                     "heading": 180.0,
@@ -25,14 +25,14 @@
             "name": "ScoreCone1",
             "waypoints": [
                 {
-                    "x": 268.0,
+                    "x": 272.0,
                     "y": -181.0,
                     "track": 180.0,
                     "heading": 180.0,
                     "comment": ""
                 },
                 {
-                    "x": 81.0,
+                    "x": 84.0,
                     "y": -192.0,
                     "track": 180.0,
                     "heading": 180.0,
@@ -45,7 +45,7 @@
             "max_velocity": 70,
             "waypoints": [
                 {
-                    "x": 81.0,
+                    "x": 84.0,
                     "y": -192.0,
                     "track": 91.0,
                     "heading": 180.0,
