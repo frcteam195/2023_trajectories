@@ -4,7 +4,6 @@
     "paths": [
         {
             "name": "GatherCone",
-            "max_velocity": 80,
             "waypoints": [
                 {
                     "x": 88.0,
@@ -43,7 +42,6 @@
         },
         {
             "name": "Climb",
-            "max_velocity": 60,
             "waypoints": [
                 {
                     "x": 88.0,
@@ -53,17 +51,17 @@
                     "comment": ""
                 },
                 {
-                    "x": 100.0,
-                    "y": -131.0,
+                    "x": 98.0,
+                    "y": -128.0,
                     "track": 45.0,
-                    "heading": 180.0,
+                    "heading": 90.0,
                     "comment": ""
                 },
                 {
                     "x": 178.0,
                     "y": -97.0,
                     "track": 0.0,
-                    "heading": 180.0,
+                    "heading": 90.0,
                     "comment": ""
                 }
             ]
