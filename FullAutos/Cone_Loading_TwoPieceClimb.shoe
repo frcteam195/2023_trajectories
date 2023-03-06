@@ -4,6 +4,7 @@
     "paths": [
         {
             "name": "GatherCone",
+            "max_velocity": 100,
             "waypoints": [
                 {
                     "x": 88.0,
@@ -13,8 +14,8 @@
                     "comment": ""
                 },
                 {
-                    "x": 272.0,
-                    "y": -178.0,
+                    "x": 265.0,
+                    "y": -180.0,
                     "track": 0.0,
                     "heading": 180.0,
                     "comment": ""
@@ -25,15 +26,15 @@
             "name": "ScoreCone",
             "waypoints": [
                 {
-                    "x": 272.0,
-                    "y": -178.0,
+                    "x": 265.0,
+                    "y": -180.0,
                     "track": 180.0,
                     "heading": 180.0,
                     "comment": ""
                 },
                 {
-                    "x": 88.0,
-                    "y": -192.0,
+                    "x": 76.0,
+                    "y": -195.0,
                     "track": 180.0,
                     "heading": 180.0,
                     "comment": ""
@@ -42,10 +43,11 @@
         },
         {
             "name": "Climb",
+            "max_velocity": 80,
             "waypoints": [
                 {
-                    "x": 88.0,
-                    "y": -192.0,
+                    "x": 76.0,
+                    "y": -195.0,
                     "track": 90.0,
                     "heading": 180.0,
                     "comment": ""
