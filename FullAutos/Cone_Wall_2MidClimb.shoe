@@ -1,0 +1,70 @@
+{
+    "name": "Cone_Wall_2MidClimb",
+    "path_count": 3,
+    "paths": [
+        {
+            "name": "GatherCube",
+            "waypoints": [
+                {
+                    "x": 77.0,
+                    "y": -19.0,
+                    "track": 0.0,
+                    "heading": 180.0,
+                    "comment": ""
+                },
+                {
+                    "x": 262.0,
+                    "y": -35.0,
+                    "track": 0.0,
+                    "heading": 180.0,
+                    "comment": ""
+                }
+            ]
+        },
+        {
+            "name": "ScoreCube",
+            "waypoints": [
+                {
+                    "x": 262.0,
+                    "y": -35.0,
+                    "track": 180.0,
+                    "heading": 180.0,
+                    "comment": ""
+                },
+                {
+                    "x": 76.0,
+                    "y": -41.0,
+                    "track": 180.0,
+                    "heading": 180.0,
+                    "comment": ""
+                }
+            ]
+        },
+        {
+            "name": "Cilmb",
+            "waypoints": [
+                {
+                    "x": 76.0,
+                    "y": -41.0,
+                    "track": -85.0,
+                    "heading": 180.0,
+                    "comment": ""
+                },
+                {
+                    "x": 82.0,
+                    "y": -93.0,
+                    "track": -92.0,
+                    "heading": 90.0,
+                    "comment": ""
+                },
+                {
+                    "x": 160.0,
+                    "y": -126.0,
+                    "track": 0.0,
+                    "heading": 90.0,
+                    "comment": ""
+                }
+            ]
+        }
+    ]
+}
