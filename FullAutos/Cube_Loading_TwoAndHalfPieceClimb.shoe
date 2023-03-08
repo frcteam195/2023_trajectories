@@ -1,0 +1,96 @@
+{
+    "name": "Cube_Loading_TwoAndHalfPieceClimb",
+    "path_count": 4,
+    "paths": [
+        {
+            "name": "GatherCube",
+            "waypoints": [
+                {
+                    "x": 74.0,
+                    "y": -195.0,
+                    "track": 0.0,
+                    "heading": 0.0,
+                    "comment": ""
+                },
+                {
+                    "x": 259.0,
+                    "y": -181.0,
+                    "track": 0.0,
+                    "heading": 0.0,
+                    "comment": ""
+                }
+            ]
+        },
+        {
+            "name": "ScoreCube",
+            "waypoints": [
+                {
+                    "x": 259.0,
+                    "y": -181.0,
+                    "track": 180.0,
+                    "heading": 0.0,
+                    "comment": ""
+                },
+                {
+                    "x": 74.0,
+                    "y": -173.0,
+                    "track": 172.0,
+                    "heading": 0.0,
+                    "comment": ""
+                }
+            ]
+        },
+        {
+            "name": "GatherCube2",
+            "waypoints": [
+                {
+                    "x": 74.0,
+                    "y": -173.0,
+                    "track": 0.0,
+                    "heading": 0.0,
+                    "comment": ""
+                },
+                {
+                    "x": 162.0,
+                    "y": -183.0,
+                    "track": 0.0,
+                    "heading": 0.0,
+                    "comment": ""
+                },
+                {
+                    "x": 231.0,
+                    "y": -168.0,
+                    "track": 20.0,
+                    "heading": 45.0,
+                    "comment": ""
+                },
+                {
+                    "x": 270.0,
+                    "y": -141.0,
+                    "track": 45.0,
+                    "heading": 45.0,
+                    "comment": ""
+                }
+            ]
+        },
+        {
+            "name": "Climb",
+            "waypoints": [
+                {
+                    "x": 270.0,
+                    "y": -141.0,
+                    "track": 180.0,
+                    "heading": 45.0,
+                    "comment": ""
+                },
+                {
+                    "x": 157.0,
+                    "y": -117.0,
+                    "track": 180.0,
+                    "heading": 90.0,
+                    "comment": ""
+                }
+            ]
+        }
+    ]
+}
