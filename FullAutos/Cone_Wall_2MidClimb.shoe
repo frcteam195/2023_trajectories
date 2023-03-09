@@ -1,6 +1,6 @@
 {
     "name": "Cone_Wall_2MidClimb",
-    "path_count": 3,
+    "path_count": 5,
     "paths": [
         {
             "name": "GatherCube",
@@ -18,9 +18,41 @@
                     "track": 0.0,
                     "heading": 180.0,
                     "comment": ""
+                }
+            ]
+        },
+        {
+            "name": "SlowYourRollBuckaroo",
+            "max_velocity": 5,
+            "waypoints": [
+                {
+                    "x": 134.0,
+                    "y": -36.0,
+                    "track": 0.0,
+                    "heading": 180.0,
+                    "comment": ""
                 },
                 {
-                    "x": 274.0,
+                    "x": 180.0,
+                    "y": -36.0,
+                    "track": 0.0,
+                    "heading": 180.0,
+                    "comment": ""
+                }
+            ]
+        },
+        {
+            "name": "GatherCubeAgain",
+            "waypoints": [
+                {
+                    "x": 180.0,
+                    "y": -36.0,
+                    "track": 0.0,
+                    "heading": 180.0,
+                    "comment": ""
+                },
+                {
+                    "x": 256.0,
                     "y": -36.0,
                     "track": 0.0,
                     "heading": 180.0,
