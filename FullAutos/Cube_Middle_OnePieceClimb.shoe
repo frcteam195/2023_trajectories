@@ -1,41 +1,29 @@
 {
     "name": "Cube_Middle_OnePieceClimb",
-    "path_count": 2,
+    "path_count": 1,
     "paths": [
         {
-            "name": "GatherCone",
+            "name": "path1",
             "waypoints": [
                 {
-                    "x": 79.0,
-                    "y": -110.0,
+                    "x": 69.74,
+                    "y": -108.5,
                     "track": 0.0,
-                    "heading": 0.0,
+                    "heading": 180.0,
                     "comment": ""
                 },
                 {
-                    "x": 256.0,
-                    "y": -85.0,
+                    "x": 100.0,
+                    "y": -108.5,
                     "track": 0.0,
-                    "heading": 3.0,
-                    "comment": ""
-                }
-            ]
-        },
-        {
-            "name": "Climb",
-            "waypoints": [
-                {
-                    "x": 256.0,
-                    "y": -85.0,
-                    "track": 180.0,
-                    "heading": 3.0,
+                    "heading": 90.0,
                     "comment": ""
                 },
                 {
-                    "x": 158.0,
-                    "y": -107.0,
-                    "track": 180.0,
-                    "heading": 0.0,
+                    "x": 161.0,
+                    "y": -108.5,
+                    "track": 5.0,
+                    "heading": 90.0,
                     "comment": ""
                 }
             ]
