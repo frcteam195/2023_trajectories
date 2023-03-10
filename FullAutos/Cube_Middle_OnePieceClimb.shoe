@@ -6,17 +6,17 @@
             "name": "Climb",
             "waypoints": [
                 {
-                    "x": 69.74,
+                    "x": 161.0,
                     "y": -108.5,
-                    "track": 0.0,
-                    "heading": 0.0,
+                    "track": 180.0,
+                    "heading": 180.0,
                     "comment": ""
                 },
                 {
-                    "x": 161.0,
-                    "y": -108.5,
-                    "track": 0.0,
-                    "heading": 0.0,
+                    "x": 69.74,
+                    "y": -86.5,
+                    "track": 180.0,
+                    "heading": 180.0,
                     "comment": ""
                 }
             ]
