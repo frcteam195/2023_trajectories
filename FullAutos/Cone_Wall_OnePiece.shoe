@@ -1,0 +1,47 @@
+{
+   "name": "Cone_Wall_OnePiece",
+   "path_count": 2,
+   "paths": [
+       {
+           "name": "path1",
+           "waypoints": [
+               {
+                   "x": 80.0,
+                   "y": -86.0,
+                   "track": 0.0,
+                   "heading": 0.0,
+                   "comment": ""
+               },
+               {
+                   "x": 237.0,
+                   "y": -86.0,
+                   "track": 0.0,
+                   "heading": 0.0,
+                   "comment": ""
+               }
+           ]
+       },
+       {
+           "name": "path2",
+           "waypoints": [
+               {
+                   "x": 237.0,
+                   "y": -86.0,
+                   "track": 0.0,
+                   "heading": 0.0,
+                   "comment": ""
+               },
+               {
+                   "x": 150.0,
+                   "y": -86.0,
+                   "track": 180.0,
+                   "heading": 0.0,
+                   "comment": ""
+               }
+           ]
+       }
+   ]
+}
+
+
+
