@@ -23,7 +23,7 @@
         },
         {
             "name": "SlowYourRollBuckaroo",
-            "max_velocity": 5,
+            "max_velocity": 12,
             "waypoints": [
                 {
                     "x": 134.0,
@@ -52,7 +52,7 @@
                     "comment": ""
                 },
                 {
-                    "x": 256.0,
+                    "x": 259.0,
                     "y": -36.0,
                     "track": 0.0,
                     "heading": 180.0,
@@ -64,15 +64,22 @@
             "name": "ScoreCube",
             "waypoints": [
                 {
-                    "x": 274.0,
+                    "x": 259.0,
                     "y": -36.0,
                     "track": 180.0,
                     "heading": 180.0,
                     "comment": ""
                 },
                 {
-                    "x": 170.0,
-                    "y": -41.0,
+                    "x": 168.0,
+                    "y": -36.0,
+                    "track": 180.0,
+                    "heading": 180.0,
+                    "comment": ""
+                },
+                {
+                    "x": 114.0,
+                    "y": -36.0,
                     "track": 180.0,
                     "heading": 180.0,
                     "comment": ""
@@ -104,7 +111,7 @@
                     "comment": ""
                 },
                 {
-                    "x": 165.0,
+                    "x": 180.0,
                     "y": -110.0,
                     "track": 0.0,
                     "heading": 270.0,
