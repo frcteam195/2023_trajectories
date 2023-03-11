@@ -1,6 +1,6 @@
 {
-    "name": "Cone_Wall_2MidClimb",
-    "path_count": 5,
+    "name": "Cone_Wall_OneAndHalfMidClimb",
+    "path_count": 4,
     "paths": [
         {
             "name": "GatherCube",
@@ -61,59 +61,26 @@
             ]
         },
         {
-            "name": "ScoreCube",
+            "name": "Cilmb",
             "waypoints": [
                 {
                     "x": 259.0,
                     "y": -36.0,
-                    "track": 180.0,
-                    "heading": 180.0,
-                    "comment": ""
-                },
-                {
-                    "x": 168.0,
-                    "y": -36.0,
-                    "track": 180.0,
-                    "heading": 180.0,
-                    "comment": ""
-                },
-                {
-                    "x": 114.0,
-                    "y": -36.0,
-                    "track": 180.0,
-                    "heading": 180.0,
-                    "comment": ""
-                },
-                {
-                    "x": 76.0,
-                    "y": -41.0,
-                    "track": 180.0,
-                    "heading": 180.0,
-                    "comment": ""
-                }
-            ]
-        },
-        {
-            "name": "Cilmb",
-            "waypoints": [
-                {
-                    "x": 76.0,
-                    "y": -41.0,
                     "track": -90.0,
                     "heading": 180.0,
                     "comment": ""
                 },
                 {
-                    "x": 100.0,
-                    "y": -95.0,
-                    "track": -45.0,
+                    "x": 222.0,
+                    "y": -106.0,
+                    "track": -179.0,
                     "heading": 270.0,
                     "comment": ""
                 },
                 {
-                    "x": 180.0,
-                    "y": -110.0,
-                    "track": 0.0,
+                    "x": 130.0,
+                    "y": -106.0,
+                    "track": -179.0,
                     "heading": 270.0,
                     "comment": ""
                 }
