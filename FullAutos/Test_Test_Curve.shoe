@@ -8,14 +8,14 @@
                 {
                     "x": 0.0,
                     "y": 0.0,
-                    "track": 0.0,
+                    "track": -45.0,
                     "heading": 0.0,
                     "comment": ""
                 },
                 {
                     "x": 120.0,
                     "y": 120.0,
-                    "track": 0.0,
+                    "track": -45.0,
                     "heading": 0.0,
                     "comment": ""
                 }
