@@ -3,7 +3,7 @@
    "path_count": 4,
    "paths": [
        {
-           "name": "GatherCone1",
+           "name": "GatherCone",
            "waypoints": [
                {
                    "x": 69.74,
@@ -22,7 +22,7 @@
            ]
        },
        {
-           "name": "ScoreCone1",
+           "name": "ScoreCone",
            "waypoints": [
                {
                    "x": 278.3465,
@@ -48,7 +48,7 @@
            ]
        },
        {
-           "name": "GatherCube1",
+           "name": "GatherCube",
            "waypoints": [
                {
                    "x": 69.74,
@@ -74,7 +74,7 @@
            ]
        },
        {
-           "name": "ScoreCube1",
+           "name": "ScoreCube",
            "waypoints": [
                {
                    "x": 278.3465,

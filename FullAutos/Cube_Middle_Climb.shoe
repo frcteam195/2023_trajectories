@@ -1,9 +1,9 @@
 {
-    "name": "Cube_Middle_OnePieceClimb",
+    "name": "Cube_Middle_Climb",
     "path_count": 1,
     "paths": [
         {
-            "name": "path1",
+            "name": "Climb",
             "waypoints": [
                 {
                     "x": 69.74,
