@@ -1,46 +1,27 @@
 {
     "name": "Cube_Wall_TwoHigh",
-    "path_count": 3,
+    "path_count": 2,
     "paths": [
         {
-            "name": "AlignToCone",
+            "name": "GatherCone",
             "waypoints": [
                 {
-                    "x": 74.0,
+                    "x": 69.74,
                     "y": -42.5,
-                    "track": 10.0,
+                    "track": 13.0,
                     "heading": 180.0,
                     "comment": ""
                 },
                 {
                     "x": 134.0,
-                    "y": -38.0,
+                    "y": -36.72,
                     "track": 0.0,
                     "heading": 180.0,
                     "comment": ""
                 },
                 {
-                    "x": 200.0,
-                    "y": -38.0,
-                    "track": 0.0,
-                    "heading": 180.0,
-                    "comment": ""
-                }
-            ]
-        },
-        {
-            "name": "GatherCone",
-            "waypoints": [
-                {
-                    "x": 200.0,
-                    "y": -38.0,
-                    "track": 0.0,
-                    "heading": 180.0,
-                    "comment": ""
-                },
-                {
-                    "x": 272.0,
-                    "y": -38.0,
+                    "x": 278.3465,
+                    "y": -36.72,
                     "track": 0.0,
                     "heading": 180.0,
                     "comment": ""
@@ -51,30 +32,23 @@
             "name": "ScoreCone",
             "waypoints": [
                 {
-                    "x": 272.0,
-                    "y": -38.0,
+                    "x": 278.3465,
+                    "y": -36.72,
                     "track": 180.0,
                     "heading": 180.0,
                     "comment": ""
                 },
                 {
-                    "x": 168.0,
-                    "y": -38.0,
+                    "x": 134.0,
+                    "y": -36.72,
                     "track": 180.0,
                     "heading": 180.0,
                     "comment": ""
                 },
                 {
-                    "x": 114.0,
-                    "y": -38.0,
+                    "x": 69.74,
+                    "y": -20.5,
                     "track": 180.0,
-                    "heading": 180.0,
-                    "comment": ""
-                },
-                {
-                    "x": 74.0,
-                    "y": -18.0,
-                    "track": 145.0,
                     "heading": 180.0,
                     "comment": ""
                 }
