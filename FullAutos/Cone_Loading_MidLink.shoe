@@ -1,110 +1,106 @@
 {
-    "name": "Cone_Loading_MidLink",
-    "path_count": 4,
-    "paths": [
-        {
-            "name": "GatherCone1",
-            "waypoints": [
-                {
-                    "x": 80.0,
-                    "y": -198.5,
-                    "track": 0.0,
-                    "heading": 180.0,
-                    "comment": ""
-                },
-                {
-                    "x": 265.0,
-                    "y": -185.0,
-                    "track": 3.0,
-                    "heading": 180.0,
-                    "comment": ""
-                }
-            ]
-        },
-        {
-            "name": "ScoreCone1",
-            "waypoints": [
-                {
-                    "x": 265.0,
-                    "y": -185.0,
-                    "track": 180.0,
-                    "heading": 180.0,
-                    "comment": ""
-                },
-                {
-                    "x": 161.0,
-                    "y": -185.0,
-                    "track": 180.0,
-                    "heading": 180.0,
-                    "comment": ""
-                },
-                {
-                    "x": 77.0,
-                    "y": -152.5,
-                    "track": 120.0,
-                    "heading": 180.0,
-                    "comment": ""
-                }
-            ]
-        },
-        {
-            "name": "GatherCube1",
-            "waypoints": [
-                {
-                    "x": 77.0,
-                    "y": -152.5,
-                    "track": -60.0,
-                    "heading": 180.0,
-                    "comment": ""
-                },
-                {
-                    "x": 162.0,
-                    "y": -183.0,
-                    "track": 0.0,
-                    "heading": 180.0,
-                    "comment": ""
-                },
-                {
-                    "x": 222.0,
-                    "y": -177.0,
-                    "track": 20.0,
-                    "heading": 225.0,
-                    "comment": ""
-                },
-                {
-                    "x": 270.0,
-                    "y": -146.0,
-                    "track": 45.0,
-                    "heading": 225.0,
-                    "comment": ""
-                }
-            ]
-        },
-        {
-            "name": "ScoreCube1",
-            "waypoints": [
-                {
-                    "x": 270.0,
-                    "y": -146.0,
-                    "track": -150.0,
-                    "heading": 225.0,
-                    "comment": ""
-                },
-                {
-                    "x": 188.0,
-                    "y": -175.0,
-                    "track": 180.0,
-                    "heading": 180.0,
-                    "comment": ""
-                },
-                {
-                    "x": 90.0,
-                    "y": -175.0,
-                    "track": 180.0,
-                    "heading": 180.0,
-                    "comment": ""
-                }
-            ]
-        }
-    ]
+   "name": "Cone_Loading_MidLink",
+   "path_count": 4,
+   "paths": [
+       {
+           "name": "GatherCone1",
+           "waypoints": [
+               {
+                   "x": 69.74,
+                   "y": -196.5,
+                   "track": 0.0,
+                   "heading": 180.0,
+                   "comment": ""
+               },
+               {
+                   "x": 278.3465,
+                   "y": -180.72,
+                   "track": 0.0,
+                   "heading": 180.0,
+                   "comment": ""
+               }
+           ]
+       },
+       {
+           "name": "ScoreCone1",
+           "waypoints": [
+               {
+                   "x": 278.3465,
+                   "y": -180.72,
+                   "track": 180.0,
+                   "heading": 180.0,
+                   "comment": ""
+               },
+               {
+                   "x": 161.0,
+                   "y": -180.72,
+                   "track": 180.0,
+                   "heading": 180.0,
+                   "comment": ""
+               },
+               {
+                   "x": 69.74,
+                   "y": -152.5,
+                   "track": 120.0,
+                   "heading": 180.0,
+                   "comment": ""
+               }
+           ]
+       },
+       {
+           "name": "GatherCube1",
+           "waypoints": [
+               {
+                   "x": 69.74,
+                   "y": -152.5,
+                   "track": -45.0,
+                   "heading": 180.0,
+                   "comment": ""
+               },
+               {
+                   "x": 145.0,
+                   "y": -187.0,
+                   "track": 0.0,
+                   "heading": 180.0,
+                   "comment": ""
+               },
+               {
+                   "x": 278.3465,
+                   "y": -132.72,
+                   "track": 35.0,
+                   "heading": 225.0,
+                   "comment": ""
+               }
+           ]
+       },
+       {
+           "name": "ScoreCube1",
+           "waypoints": [
+               {
+                   "x": 278.3465,
+                   "y": -132.72,
+                   "track": 215.0,
+                   "heading": 225.0,
+                   "comment": ""
+               },
+               {
+                   "x": 188.0,
+                   "y": -174.5,
+                   "track": 180.0,
+                   "heading": 180.0,
+                   "comment": ""
+               },
+               {
+                   "x": 69.74,
+                   "y": -174.5,
+                   "track": 180.0,
+                   "heading": 180.0,
+                   "comment": ""
+               }
+           ]
+       }
+   ]
 }
+
+
+
