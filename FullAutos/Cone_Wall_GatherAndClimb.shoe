@@ -37,7 +37,10 @@
         },
         {
             "name": "Cilmb",
-            "waypoint.72,
+            "waypoints": [
+                {
+                    "x": 278.3465,
+                    "y": -37.72,
                     "track": -90.0,
                     "heading": 180.0,
                     "comment": ""
