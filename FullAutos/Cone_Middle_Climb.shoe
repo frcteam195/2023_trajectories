@@ -1,28 +1,61 @@
 {
     "name": "Cone_Middle_Climb",
-    "path_count": 1,
+    "path_count": 3,
     "paths": [
         {
-            "name": "Climb",
+            "name": "Rotate",
+            "max_velocity": 40,
             "waypoints": [
                 {
                     "x": 69.74,
                     "y": -86.5,
-                    "track": 0.0,
+                    "track": -46.0,
                     "heading": 180.0,
                     "comment": ""
                 },
                 {
-                    "x": 100.0,
+                    "x": 92.0,
+                    "y": -108.5,
+                    "track": -48.0,
+                    "heading": 90.0,
+                    "comment": ""
+                }
+            ]
+        },
+        {
+            "name": "MoveBonus",
+            "max_velocity": 40,
+            "waypoints": [
+                {
+                    "x": 92.0,
                     "y": -108.5,
                     "track": 0.0,
                     "heading": 90.0,
                     "comment": ""
                 },
                 {
-                    "x": 161.0,
-                    "y": -108.5,
-                    "track": 5.0,
+                    "x": 261.0,
+                    "y": -107.0,
+                    "track": 0.0,
+                    "heading": 90.0,
+                    "comment": ""
+                }
+            ]
+        },
+        {
+            "name": "Climb",
+            "waypoints": [
+                {
+                    "x": 261.0,
+                    "y": -107.0,
+                    "track": 178.0,
+                    "heading": 90.0,
+                    "comment": ""
+                },
+                {
+                    "x": 158.0,
+                    "y": -106.0,
+                    "track": 177.0,
                     "heading": 90.0,
                     "comment": ""
                 }
