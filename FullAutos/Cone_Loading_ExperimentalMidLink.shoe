@@ -3,7 +3,7 @@
    "path_count": 2,
    "paths": [
        {
-           "name": "Cone PIckup",
+           "name": "Cone Pickup",
            "waypoints": [
                {
                    "x": 69.74,
@@ -20,8 +20,8 @@
                    "comment": ""
                },
                {
-                   "x": 302.0,
-                   "y": -215.0,
+                   "x": 330.0,
+                   "y": -231.0,
                    "track": -147.0,
                    "heading": 180.0,
                    "comment": ""
@@ -74,8 +74,8 @@
                    "comment": ""
                },
                {
-                   "x": 188.0,
-                   "y": -174.5,
+                   "x": 159.0,
+                   "y": -180.0,
                    "track": 180.0,
                    "heading": 180.0,
                    "comment": ""
