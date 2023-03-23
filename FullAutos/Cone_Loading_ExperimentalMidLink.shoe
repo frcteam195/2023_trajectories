@@ -4,7 +4,7 @@
    "paths": [
        {
            "name": "Cone Pickup",
-           "max_velocity": 40,
+           "max_velocity": 80,
            "waypoints": [
                {
                    "x": 69.74,
@@ -45,7 +45,7 @@
        },
        {
            "name": "Cube Pickup",
-           "max_velocity": 40,
+           "max_velocity": 80,
            "waypoints": [
                {
                    "x": 69.74,
