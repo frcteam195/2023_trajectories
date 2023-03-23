@@ -1,0 +1,91 @@
+{
+   "name": "Cone_Loading_ExperimentalMidLink",
+   "path_count": 1,
+   "paths": [
+       {
+           "name": "Combination Taco Bell Pizza Hut",
+           "waypoints": [
+               {
+                   "x": 69.74,
+                   "y": -196.5,
+                   "track": 0.0,
+                   "heading": 180.0,
+                   "comment": ""
+               },
+               {
+                   "x": 278.3465,
+                   "y": -180.72,
+                   "track": 0.0,
+                   "heading": 180.0,
+                   "comment": ""
+               },
+               {
+                   "x": 364.0,
+                   "y": -219.0,
+                   "track": 270.0,
+                   "heading": 180.0,
+                   "comment": ""
+               },
+               {
+                   "x": 161.0,
+                   "y": -180.72,
+                   "track": 180.0,
+                   "heading": 180.0,
+                   "comment": ""
+               },
+               {
+                   "x": 69.74,
+                   "y": -152.5,
+                   "track": 120.0,
+                   "heading": 180.0,
+                   "comment": ""
+               },
+               {
+                   "x": 97.0,
+                   "y": -140.0,
+                   "track": -103.0,
+                   "heading": 180.0,
+                   "comment": ""
+               },
+               {
+                   "x": 145.0,
+                   "y": -187.0,
+                   "track": 0.0,
+                   "heading": 180.0,
+                   "comment": ""
+               },
+               {
+                   "x": 278.3465,
+                   "y": -132.72,
+                   "track": 35.0,
+                   "heading": 225.0,
+                   "comment": ""
+               },
+               {
+                   "x": 254.0,
+                   "y": -110.0,
+                   "track": 180.0,
+                   "heading": 180.0,
+                   "comment": ""
+               },
+               {
+                   "x": 188.0,
+                   "y": -174.5,
+                   "track": 180.0,
+                   "heading": 180.0,
+                   "comment": ""
+               },
+               {
+                   "x": 69.74,
+                   "y": -174.5,
+                   "track": 180.0,
+                   "heading": 180.0,
+                   "comment": ""
+               }
+           ]
+       }
+   ]
+}
+
+
+
