@@ -1,9 +1,9 @@
 {
    "name": "Cone_Loading_ExperimentalMidLink",
-   "path_count": 1,
+   "path_count": 2,
    "paths": [
        {
-           "name": "Combination Taco Bell Pizza Hut",
+           "name": "Cone PIckup",
            "waypoints": [
                {
                    "x": 69.74,
@@ -20,9 +20,9 @@
                    "comment": ""
                },
                {
-                   "x": 364.0,
-                   "y": -219.0,
-                   "track": 270.0,
+                   "x": 302.0,
+                   "y": -215.0,
+                   "track": -147.0,
                    "heading": 180.0,
                    "comment": ""
                },
@@ -39,11 +39,16 @@
                    "track": 120.0,
                    "heading": 180.0,
                    "comment": ""
-               },
+               }
+           ]
+       },
+       {
+           "name": "Cube Pickup",
+           "waypoints": [
                {
-                   "x": 97.0,
-                   "y": -140.0,
-                   "track": -103.0,
+                   "x": 69.74,
+                   "y": -152.5,
+                   "track": -45.0,
                    "heading": 180.0,
                    "comment": ""
                },
