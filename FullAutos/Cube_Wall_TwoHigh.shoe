@@ -24,8 +24,7 @@
                     "y": -37.72,
                     "track": 0.0,
                     "heading": 180.0,
-                    "comment": "",
-                    }
+                    "comment": ""
                 }
             ]
         },
@@ -37,8 +36,7 @@
                     "y": -37.72,
                     "track": 180.0,
                     "heading": 180.0,
-                    "comment": "",
-                    }
+                    "comment": ""
                 },
                 {
                     "x": 134.0,
@@ -52,8 +50,7 @@
                     "y": -20.5,
                     "track": 180.0,
                     "heading": 180.0,
-                    "comment": "",
-                    }
+                    "comment": ""
                 }
             ]
         }
