@@ -1,9 +1,10 @@
 {
     "name": "Cone_Wall_GatherAndClimb",
-    "path_count": 2,
+    "path_count": 1,
     "paths": [
         {
             "name": "GatherCone",
+            "max_velocity": 40,
             "waypoints": [
                 {
                     "x": 69.74,
@@ -14,47 +15,35 @@
                 },
                 {
                     "x": 134.0,
-                    "y": -37.72,
+                    "y": -34.0,
                     "track": 0.0,
                     "heading": 180.0,
                     "comment": ""
                 },
                 {
                     "x": 200.0,
-                    "y": -37.72,
+                    "y": -34.0,
                     "track": 0.0,
                     "heading": 180.0,
                     "comment": ""
                 },
                 {
-                    "x": 278.3465,
-                    "y": -37.72,
+                    "x": 278.0,
+                    "y": -40.0,
                     "track": 0.0,
-                    "heading": 180.0,
-                    "comment": ""
-                }
-            ]
-        },
-        {
-            "name": "Cilmb",
-            "waypoints": [
-                {
-                    "x": 278.3465,
-                    "y": -37.72,
-                    "track": -90.0,
                     "heading": 180.0,
                     "comment": ""
                 },
                 {
-                    "x": 216.0,
+                    "x": 266.0,
                     "y": -105.0,
-                    "track": 180.0,
+                    "track": 177.0,
                     "heading": 270.0,
                     "comment": ""
                 },
                 {
-                    "x": 155.0,
-                    "y": -106.0,
+                    "x": 151.0,
+                    "y": -105.0,
                     "track": 180.0,
                     "heading": 270.0,
                     "comment": ""
