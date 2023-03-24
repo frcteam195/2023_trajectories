@@ -42,7 +42,7 @@
         },
         {
             "name": "GatherCube2",
-            "max_velocity": 60,
+            "max_velocity": 40,
             "waypoints": [
                 {
                     "x": 77.0,
