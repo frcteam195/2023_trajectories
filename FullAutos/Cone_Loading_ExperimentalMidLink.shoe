@@ -4,7 +4,6 @@
    "paths": [
        {
            "name": "Cone Pickup",
-           "max_velocity": 80,
            "waypoints": [
                {
                    "x": 69.74,
@@ -21,8 +20,8 @@
                    "comment": ""
                },
                {
-                   "x": 330.0,
-                   "y": -231.0,
+                   "x": 291.0,
+                   "y": -236.0,
                    "track": -147.0,
                    "heading": 180.0,
                    "comment": ""
@@ -45,7 +44,6 @@
        },
        {
            "name": "Cube Pickup",
-           "max_velocity": 80,
            "waypoints": [
                {
                    "x": 69.74,
@@ -69,15 +67,15 @@
                    "comment": ""
                },
                {
-                   "x": 309.0,
-                   "y": -180.0,
+                   "x": 291.0,
+                   "y": -189.0,
                    "track": -160.0,
                    "heading": 180.0,
                    "comment": ""
                },
                {
                    "x": 159.0,
-                   "y": -180.0,
+                   "y": -193.0,
                    "track": 180.0,
                    "heading": 180.0,
                    "comment": ""
