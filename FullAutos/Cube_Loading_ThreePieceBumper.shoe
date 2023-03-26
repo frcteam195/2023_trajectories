@@ -1,0 +1,136 @@
+{
+    "name": "Cube_Loading_ThreePieceBumper",
+    "path_count": 5,
+    "paths": [
+        {
+            "name": "GatherCone1",
+            "waypoints": [
+                {
+                    "x": 72.0,
+                    "y": -198.5,
+                    "track": 0.0,
+                    "heading": 0.0,
+                    "comment": ""
+                },
+                {
+                    "x": 268.0,
+                    "y": -180.0,
+                    "track": 3.0,
+                    "heading": 0.0,
+                    "comment": ""
+                }
+            ]
+        },
+        {
+            "name": "ScoreCone1",
+            "waypoints": [
+                {
+                    "x": 268.0,
+                    "y": -180.0,
+                    "track": 180.0,
+                    "heading": 0.0,
+                    "comment": ""
+                },
+                {
+                    "x": 103.0,
+                    "y": -180.0,
+                    "track": 180.0,
+                    "heading": 0.0,
+                    "comment": ""
+                },
+                {
+                    "x": 69.74,
+                    "y": -196.5,
+                    "track": 180.0,
+                    "heading": 0.0,
+                    "comment": ""
+                }
+            ]
+        },
+        {
+            "name": "GatherCube1",
+            "waypoints": [
+                {
+                    "x": 69.74,
+                    "y": -196.5,
+                    "track": 0.0,
+                    "heading": 0.0,
+                    "comment": ""
+                },
+                {
+                    "x": 143.0,
+                    "y": -181.0,
+                    "track": 0.0,
+                    "heading": 0.0,
+                    "comment": ""
+                },
+                {
+                    "x": 278.3465,
+                    "y": -132.72,
+                    "track": 35.0,
+                    "heading": 0.0,
+                    "comment": ""
+                }
+            ]
+        },
+        {
+            "name": "ScoreCube1",
+            "waypoints": [
+                {
+                    "x": 278.3465,
+                    "y": -132.72,
+                    "track": -180.0,
+                    "heading": 0.0,
+                    "comment": ""
+                },
+                {
+                    "x": 211.0,
+                    "y": -177.0,
+                    "track": 180.0,
+                    "heading": 0.0,
+                    "comment": ""
+                },
+                {
+                    "x": 113.0,
+                    "y": -179.0,
+                    "track": -180.0,
+                    "heading": 0.0,
+                    "comment": ""
+                },
+                {
+                    "x": 69.74,
+                    "y": -174.5,
+                    "track": -180.0,
+                    "heading": 0.0,
+                    "comment": ""
+                }
+            ]
+        },
+        {
+            "name": "Climb",
+            "waypoints": [
+                {
+                    "x": 69.74,
+                    "y": -174.5,
+                    "track": 0.0,
+                    "heading": 0.0,
+                    "comment": ""
+                },
+                {
+                    "x": 111.0,
+                    "y": -129.0,
+                    "track": 0.0,
+                    "heading": 0.0,
+                    "comment": ""
+                },
+                {
+                    "x": 188.0,
+                    "y": -127.0,
+                    "track": 0.0,
+                    "heading": -90.0,
+                    "comment": ""
+                }
+            ]
+        }
+    ]
+}
