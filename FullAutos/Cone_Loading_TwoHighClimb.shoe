@@ -60,8 +60,9 @@
         },
         {
             "name": "Climb",
-            "max_accel": 3.0,
+            "max_accel":1.5,
             "max_decel": 1.5,
+            "accel_smoothing": false,
             "waypoints": [
                 {
                     "x": 69.74,
