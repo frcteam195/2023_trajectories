@@ -1,10 +1,10 @@
 {
-    "name": "Cube_Wall_TwoHigh",
+    "name": "Cube_Wall_TwoHighClimb",
     "path_count": 3,
     "paths": [
         {
             "name": "GatherCone",
-            "max_decel": 3.0,
+            "max_decel": 3,
             "waypoints": [
                 {
                     "x": 69.74,
@@ -31,7 +31,7 @@
         },
         {
             "name": "ScoreCone",
-            "max_decel": 3.0,
+            "max_decel": 3,
             "waypoints": [
                 {
                     "x": 280.3465,
@@ -58,30 +58,28 @@
         },
         {
             "name": "RollOut",
-            "max_velocity": 50,
             "max_accel":1.4,
             "max_decel": 1.3,
-            "accel_smoothing": false,
             "waypoints": [
                 {
                     "x": 72.74,
                     "y": -18.5,
-                    "track": 0.0,
-                    "heading": 180.0,
-                    "comment": ""
-                },
-                {
-                    "x": 184.0,
-                    "y": -18.5,
-                    "track": 0.0,
-                    "heading": 180.0,
-                    "comment": ""
-                },
-                {
-                    "x": 278.3465,
-                    "y": -84.72,
                     "track": -45.0,
-                    "heading": 115.0,
+                    "heading": 180.0,
+                    "comment": ""
+                },
+                {
+                    "x": 105.0,
+                    "y": -89.0,
+                    "track": -20.0,
+                    "heading": -90.0,
+                    "comment": ""
+                },
+                {
+                    "x": 182.0,
+                    "y": -98.0,
+                    "track": 0.0,
+                    "heading": -90.0,
                     "comment": ""
                 }
             ]
