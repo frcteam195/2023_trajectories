@@ -4,7 +4,7 @@
     "paths": [
         {
             "name": "GatherCone",
-            "max_decel": 3,
+            "max_decel": 2.5,
             "waypoints": [
                 {
                     "x": 69.74,
@@ -21,7 +21,7 @@
                     "comment": ""
                 },
                 {
-                    "x": 280.3465,
+                    "x": 282.0,
                     "y": -37.72,
                     "track": 0.0,
                     "heading": 180.0,
@@ -31,10 +31,10 @@
         },
         {
             "name": "ScoreCone",
-            "max_decel": 3,
+            "max_decel": 3.0,
             "waypoints": [
                 {
-                    "x": 280.3465,
+                    "x": 282.0,
                     "y": -37.72,
                     "track": 180.0,
                     "heading": 180.0,
