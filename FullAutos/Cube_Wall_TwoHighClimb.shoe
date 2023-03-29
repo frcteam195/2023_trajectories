@@ -48,8 +48,8 @@
                     "comment": ""
                 },
                 {
-                    "x": 76,
-                    "y": -18.5,
+                    "x": 74.74,
+                    "y": -20.0,
                     "track": 180.0,
                     "heading": 180.0,
                     "comment": ""
@@ -58,28 +58,28 @@
         },
         {
             "name": "RollOut",
-            "max_accel":1.4,
-            "max_decel": 1.3,
+            "max_accel":2.4,
+            "max_decel": 1.4,
             "waypoints": [
                 {
-                    "x": 76,
-                    "y": -18.5,
-                    "track": -45.0,
+                    "x": 74.74,
+                    "y": -20.0,
+                    "track": -80.0,
                     "heading": 180.0,
                     "comment": ""
                 },
                 {
-                    "x": 105.0,
-                    "y": -89.0,
-                    "track": -20.0,
-                    "heading": -90.0,
+                    "x": 110.0,
+                    "y": -95.0,
+                    "track": -10.0,
+                    "heading": 90.0,
                     "comment": ""
                 },
                 {
                     "x": 182.0,
-                    "y": -98.0,
+                    "y": -105.0,
                     "track": 0.0,
-                    "heading": -90.0,
+                    "heading": 90.0,
                     "comment": ""
                 }
             ]
