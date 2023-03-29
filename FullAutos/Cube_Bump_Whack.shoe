@@ -3,18 +3,12 @@
    "path_count": 4,
    "paths": [
        {
-           "name": "GatherCone",
-           "waypoints": [
+            "name": "GatherCone",
+            "max_decel": 3.0,
+            "waypoints": [
                {
-                   "x": 135.0,
-                   "y": -20.5,
-                   "track": 0.0,
-                   "heading": 180.0,
-                   "comment": ""
-               },
-               {
-                   "x": 180.0,
-                   "y": -20.5,
+                   "x": 168.0,
+                   "y": -17.0,
                    "track": 0.0,
                    "heading": 180.0,
                    "comment": ""
@@ -30,6 +24,7 @@
        },
        {
            "name": "ScoreCone",
+            "max_decel": 3.0,
            "waypoints": [
                {
                    "x": 278.3465,
@@ -63,6 +58,7 @@
        },
        {
            "name": "GatherCube",
+            "max_decel": 3.0,
            "waypoints": [
                {
                    "x": 70.0,
@@ -89,6 +85,7 @@
        },
        {
            "name": "ScoreCube",
+            "max_decel": 3.0,
            "waypoints": [
                {
                    "x": 278.3465,
