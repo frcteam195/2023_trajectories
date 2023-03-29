@@ -4,7 +4,7 @@
     "paths": [
         {
             "name": "GatherCone",
-            "max_decel": 3.0,
+            "max_decel": 2.5,
             "waypoints": [
                 {
                     "x": 69.74,
@@ -21,7 +21,7 @@
                     "comment": ""
                 },
                 {
-                    "x": 280.3465,
+                    "x": 282.0,
                     "y": -37.72,
                     "track": 0.0,
                     "heading": 180.0,
@@ -34,7 +34,7 @@
             "max_decel": 3.0,
             "waypoints": [
                 {
-                    "x": 280.3465,
+                    "x": 282.0,
                     "y": -37.72,
                     "track": 180.0,
                     "heading": 180.0,
@@ -75,10 +75,10 @@
                     "comment": ""
                 },
                 {
-                    "x": 278.3465,
-                    "y": -84.72,
-                    "track": -45.0,
-                    "heading": 115.0,
+                    "x": 275.0,
+                    "y": -84.0,
+                    "track": 10.0,
+                    "heading": 180.0,
                     "comment": ""
                 }
             ]
