@@ -1,96 +1,113 @@
 {
-    "name": "Cube_Bump_Whack",
-    "path_count": 4,
-    "paths": [
-        {
-            "name": "GatherCone",
-            "waypoints": [
-                {
-                    "x": 165.0,
-                    "y": -22.0,
-                    "track": 0.0,
-                    "heading": 180.0,
-                    "comment": ""
-                },
-                {
-                    "x": 278.3465,
-                    "y": -36.72,
-                    "track": 0.0,
-                    "heading": 180.0,
-                    "comment": ""
-                }
-            ]
-        },
-        {
-            "name": "ScoreCone",
-            "waypoints": [
-                {
-                    "x": 278.3465,
-                    "y": -36.72,
-                    "track": 180.0,
-                    "heading": 180.0,
-                    "comment": ""
-                },
-                {
-                    "x": 70.0,
-                    "y": -20.5,
-                    "track": 180.0,
-                    "heading": 180.0,
-                    "comment": ""
-                }
-            ]
-        },
-        {
-            "name": "GatherCube",
-            "waypoints": [
-                {
-                    "x": 70.0,
-                    "y": -20.5,
-                    "track": 0.0,
-                    "heading": 180.0,
-                    "comment": ""
-                },
-                {
-                    "x": 278.3465,
-                    "y": -84.72,
-                    "track": -45.0,
-                    "heading": 135.0,
-                    "comment": ""
-                }
-            ]
-        },
-        {
-            "name": "ScoreCube",
-            "waypoints": [
-                {
-                    "x": 278.3465,
-                    "y": -84.72,
-                    "track": 140.0,
-                    "heading": 135.0,
-                    "comment": ""
-                },
-                {
-                    "x": 188.0,
-                    "y": -37.0,
-                    "track": 180.0,
-                    "heading": 180.0,
-                    "comment": ""
-                },
-                {
-                    "x": 100.0,
-                    "y": -37.0,
-                    "track": 180.0,
-                    "heading": 180.0,
-                    "comment": ""
-                },
-                {
-                    "x": 70.0,
-                    "y": -37.0,
-                    "track": 180.0,
-                    "heading": -170.0,
-                    "comment": ""
-                }
-            ]
-        }
-    ]
+   "name": "Cube_Bump_Whack",
+   "path_count": 4,
+   "paths": [
+       {
+           "name": "GatherCone",
+           "waypoints": [
+               {
+                   "x": 135.0,
+                   "y": -20.5,
+                   "track": 0.0,
+                   "heading": 180.0,
+                   "comment": ""
+               },
+               {
+                   "x": 180.0,
+                   "y": -20.5,
+                   "track": 0.0,
+                   "heading": 180.0,
+                   "comment": ""
+               },
+               {
+                   "x": 278.3465,
+                   "y": -84.72,
+                   "track": -45.0,
+                   "heading": 135.0,
+                   "comment": ""
+               }
+           ]
+       },
+       {
+           "name": "ScoreCone",
+           "waypoints": [
+               {
+                   "x": 278.3465,
+                   "y": -84.72,
+                   "track": 127.0,
+                   "heading": 135.0,
+                   "comment": ""
+               },
+               {
+                   "x": 170.0,
+                   "y": -20.5,
+                   "track": 180.0,
+                   "heading": 180.0,
+                   "comment": ""
+               },
+               {
+                   "x": 135.0,
+                   "y": -20.5,
+                   "track": 180.0,
+                   "heading": 180.0,
+                   "comment": ""
+               },
+               {
+                   "x": 70.0,
+                   "y": -20.5,
+                   "track": 180.0,
+                   "heading": 180.0,
+                   "comment": ""
+               }
+           ]
+       },
+       {
+           "name": "GatherCube",
+           "waypoints": [
+               {
+                   "x": 70.0,
+                   "y": -20.5,
+                   "track": 0.0,
+                   "heading": 180.0,
+                   "comment": ""
+               },
+               {
+                   "x": 125.0,
+                   "y": -36.72,
+                   "track": 0.0,
+                   "heading": 180.0,
+                   "comment": ""
+               },
+               {
+                   "x": 278.3465,
+                   "y": -36.72,
+                   "track": 0.0,
+                   "heading": 180.0,
+                   "comment": ""
+               }
+           ]
+       },
+       {
+           "name": "ScoreCube",
+           "waypoints": [
+               {
+                   "x": 278.3465,
+                   "y": -36.72,
+                   "track": 180.0,
+                   "heading": 180.0,
+                   "comment": ""
+               },
+               {
+                   "x": 70.0,
+                   "y": -37.0,
+                   "track": 180.0,
+                   "heading": 180.0,
+                   "comment": ""
+               }
+           ]
+       }
+   ]
 }
+
+
+
