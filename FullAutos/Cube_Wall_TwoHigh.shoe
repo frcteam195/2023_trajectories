@@ -61,7 +61,7 @@
             "max_decel": 3.0,
             "waypoints": [
                 {
-                    "x": 68.0,
+                    "x": 85.0,
                     "y": -20.0,
                     "track": 0.0,
                     "heading": 180.0,
