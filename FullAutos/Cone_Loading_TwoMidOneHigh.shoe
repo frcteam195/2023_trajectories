@@ -4,6 +4,7 @@
     "paths": [
         {
             "name": "GatherCube",
+            "max_velocity": 80,
             "waypoints": [
                 {
                     "x": 66.74,
@@ -65,8 +66,8 @@
                     "comment": ""
                 },
                 {
-                    "x": 278.3465,
-                    "y": -132.72,
+                    "x": 269.3465,
+                    "y": -142.72,
                     "track": 35.0,
                     "heading": 225.0,
                     "comment": ""
@@ -77,8 +78,8 @@
             "name": "ScoreCubeTwo",
             "waypoints": [
                 {
-                    "x": 278.3465,
-                    "y": -132.72,
+                    "x": 270.3465,
+                    "y": -143.72,
                     "track": 215.0,
                     "heading": 225.0,
                     "comment": ""
@@ -91,7 +92,7 @@
                     "comment": ""
                 },
                 {
-                    "x": 71.0,
+                    "x": 75.0,
                     "y": -178.0,
                     "track": 180.0,
                     "heading": 180.0,
