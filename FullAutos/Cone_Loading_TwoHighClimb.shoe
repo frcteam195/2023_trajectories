@@ -4,7 +4,7 @@
     "paths": [
         {
             "name": "GatherCube",
-            "max_decel": 3.0,
+            "max_decel": 2.5,
             "waypoints": [
                 {
                     "x": 69.74,
@@ -51,7 +51,7 @@
         },
         {
             "name": "ScoreCube",
-            "max_decel": 3.0,
+            "max_decel": 2.5,
             "waypoints": [
                 {
                     "x": 272.3465,
@@ -68,7 +68,7 @@
                     "comment": ""
                 },
                 {
-                    "x": 71,
+                    "x": 65,
                     "y": -176.5,
                     "track": 180.0,
                     "heading": 180.0,
@@ -83,7 +83,7 @@
             "accel_smoothing": false,
             "waypoints": [
                 {
-                    "x": 71,
+                    "x": 65,
                     "y": -176.5,
                     "track": 45.0,
                     "heading": 180.0,
