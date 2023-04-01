@@ -4,7 +4,7 @@
     "paths": [
         {
             "name": "GatherCube",
-            "max_velocity": 120,
+            "max_accel": 5.0,
             "waypoints": [
                 {
                     "x": 66.74,
@@ -57,7 +57,17 @@
                     "y": -184.25,
                     "track": 180.0,
                     "heading": 180.0,
-                    "comment": ""
+                    "comment": "",
+                    "offsets": {
+                        "red": {
+                            "x": 0.0,
+                            "y": 6.0
+                        },
+                        "blue": {
+                            "x": 0.0,
+                            "y": 0.0
+                        }
+                    }
                 },
                 {
                     "x": 80.0,
@@ -68,7 +78,7 @@
                     "offsets": {
                         "red": {
                             "x": 0.0,
-                            "y": 4.0
+                            "y": 6.0
                         },
                         "blue": {
                             "x": 0.0,
@@ -86,7 +96,17 @@
                     "y": -176.5,
                     "track": 0.0,
                     "heading": 180.0,
-                    "comment": ""
+                    "comment": "",
+                    "offsets": {
+                        "red": {
+                            "x": 0.0,
+                            "y": 6.0
+                        },
+                        "blue": {
+                            "x": 0.0,
+                            "y": 0.0
+                        }
+                    }
                 },
                 {
                     "x": 145.0,
@@ -146,7 +166,17 @@
                     "y": -174.0,
                     "track": 180.0,
                     "heading": 180.0,
-                    "comment": ""
+                    "comment": "",
+                    "offsets": {
+                        "red": {
+                            "x": 0.0,
+                            "y": 6.0
+                        },
+                        "blue": {
+                            "x": 0.0,
+                            "y": 6.0
+                        }
+                    }
                 }
             ]
         }
