@@ -48,7 +48,7 @@
                     "comment": ""
                 },
                 {
-                    "x": 80.0,
+                    "x": 74,
                     "y": -20.0,
                     "track": 180.0,
                     "heading": 180.0,
@@ -59,9 +59,10 @@
         {
             "name": "RollOut",
             "max_decel": 3.0,
+            "max_velocity": 100,
             "waypoints": [
                 {
-                    "x": 80.0,
+                    "x": 74,
                     "y": -20.0,
                     "track": 0.0,
                     "heading": 180.0,
@@ -75,14 +76,14 @@
                     "comment": ""
                 },
                 {
-                    "x": 260.0,
+                    "x": 255.0,
                     "y": -100.0,
                     "track": 0.0,
                     "heading": 180.0,
                     "comment": ""
                 },
                 {
-                    "x": 275.0,
+                    "x": 265.0,
                     "y": -100.0,
                     "track": 5.0,
                     "heading": 180.0,
