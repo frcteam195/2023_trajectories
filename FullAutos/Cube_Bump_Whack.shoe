@@ -1,110 +1,117 @@
 {
-   "name": "Cube_Bump_Whack",
-   "path_count": 4,
-   "paths": [
-       {
-            "name": "GatherCone",
-            "max_decel": 3.0,
+    "name": "Cube_Bump_Whack",
+    "path_count": 4,
+    "paths": [
+        {
+            "name": "GatherCube",
             "waypoints": [
-               {
-                   "x": 168.0,
-                   "y": -17.0,
-                   "track": 0.0,
-                   "heading": 180.0,
-                   "comment": ""
-               },
-               {
-                   "x": 278.3465,
-                   "y": -84.72,
-                   "track": -45.0,
-                   "heading": 135.0,
-                   "comment": ""
-               }
-           ]
-       },
-       {
-           "name": "ScoreCone",
-            "max_decel": 3.0,
-           "waypoints": [
-               {
-                   "x": 278.3465,
-                   "y": -84.72,
-                   "track": 127.0,
-                   "heading": 135.0,
-                   "comment": ""
-               },
-               {
-                   "x": 170.0,
-                   "y": -20.5,
-                   "track": 180.0,
-                   "heading": 180.0,
-                   "comment": ""
-               },
-               {
-                   "x": 135.0,
-                   "y": -20.5,
-                   "track": 180.0,
-                   "heading": 180.0,
-                   "comment": ""
-               },
-               {
-                   "x": 70.0,
-                   "y": -20.5,
-                   "track": 180.0,
-                   "heading": 180.0,
-                   "comment": ""
-               }
-           ]
-       },
-       {
-           "name": "GatherCube",
-            "max_decel": 3.0,
-           "waypoints": [
-               {
-                   "x": 70.0,
-                   "y": -20.5,
-                   "track": 0.0,
-                   "heading": 180.0,
-                   "comment": ""
-               },
-               {
-                   "x": 125.0,
-                   "y": -36.72,
-                   "track": 0.0,
-                   "heading": 180.0,
-                   "comment": ""
-               },
-               {
-                   "x": 278.3465,
-                   "y": -36.72,
-                   "track": 0.0,
-                   "heading": 180.0,
-                   "comment": ""
-               }
-           ]
-       },
-       {
-           "name": "ScoreCube",
-            "max_decel": 3.0,
-           "waypoints": [
-               {
-                   "x": 278.3465,
-                   "y": -36.72,
-                   "track": 180.0,
-                   "heading": 180.0,
-                   "comment": ""
-               },
-               {
-                   "x": 70.0,
-                   "y": -37.0,
-                   "track": 180.0,
-                   "heading": 180.0,
-                   "comment": ""
-               }
-           ]
-       }
-   ]
+                {
+                    "x": 168.0,
+                    "y": -17.0,
+                    "track": -24.0,
+                    "heading": 180.0,
+                    "comment": ""
+                },
+                {
+                    "x": 278.3465,
+                    "y": -84.72,
+                    "track": -44.0,
+                    "heading": 135.0,
+                    "comment": ""
+                }
+            ]
+        },
+        {
+            "name": "ScoreCube",
+            "waypoints": [
+                {
+                    "x": 278.3465,
+                    "y": -84.72,
+                    "track": 139.0,
+                    "heading": 135.0,
+                    "comment": ""
+                },
+                {
+                    "x": 179.0,
+                    "y": -38.0,
+                    "track": 180.0,
+                    "heading": 180.0,
+                    "comment": ""
+                },
+                {
+                    "x": 110.0,
+                    "y": -38.0,
+                    "track": 180.0,
+                    "heading": 180.0,
+                    "comment": ""
+                },
+                {
+                    "x": 69.74,
+                    "y": -42.5,
+                    "track": 180.0,
+                    "heading": 180.0,
+                    "comment": ""
+                }
+            ]
+        },
+        {
+            "name": "GatherCone",
+            "waypoints": [
+                {
+                    "x": 69.74,
+                    "y": -42.5,
+                    "track": 0.0,
+                    "heading": 180.0,
+                    "comment": ""
+                },
+                {
+                    "x": 125.0,
+                    "y": -36.72,
+                    "track": 0.0,
+                    "heading": 180.0,
+                    "comment": ""
+                },
+                {
+                    "x": 278.3465,
+                    "y": -36.72,
+                    "track": 0.0,
+                    "heading": 180.0,
+                    "comment": ""
+                }
+            ]
+        },
+        {
+            "name": "ScoreCone",
+            "waypoints": [
+                {
+                    "x": 278.3465,
+                    "y": -36.72,
+                    "track": 180.0,
+                    "heading": 180.0,
+                    "comment": ""
+                },
+                {
+                    "x": 190.0,
+                    "y": -20.5,
+                    "track": 180.0,
+                    "heading": 180.0,
+                    "comment": ""
+                },
+                {
+                    "x": 119.0,
+                    "y": -20.5,
+                    "track": 180.0,
+                    "heading": 180.0,
+                    "comment": ""
+                },
+                {
+                    "x": 69.74,
+                    "y": -20.5,
+                    "track": 180.0,
+                    "heading": 180.0,
+                    "comment": ""
+                }
+            ]
+        }
+    ]
 }
-
-
-
