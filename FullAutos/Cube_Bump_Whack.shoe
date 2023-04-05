@@ -4,6 +4,7 @@
     "paths": [
         {
             "name": "GatherCube",
+            "max_decel": 3,
             "waypoints": [
                 {
                     "x": 168.0,
@@ -13,8 +14,8 @@
                     "comment": ""
                 },
                 {
-                    "x": 278.3465,
-                    "y": -84.72,
+                    "x": 276.3465,
+                    "y": -82.72,
                     "track": -44.0,
                     "heading": 135.0,
                     "comment": ""
@@ -23,10 +24,11 @@
         },
         {
             "name": "ScoreCube",
+            "max_decel": 3,
             "waypoints": [
                 {
-                    "x": 278.3465,
-                    "y": -84.72,
+                    "x": 276.3465,
+                    "y": -82.72,
                     "track": 139.0,
                     "heading": 135.0,
                     "comment": ""
@@ -56,6 +58,7 @@
         },
         {
             "name": "GatherCone",
+            "max_decel": 3,
             "waypoints": [
                 {
                     "x": 69.74,
@@ -72,8 +75,8 @@
                     "comment": ""
                 },
                 {
-                    "x": 278.3465,
-                    "y": -36.72,
+                    "x": 268.3465,
+                    "y": -40.72,
                     "track": 0.0,
                     "heading": 180.0,
                     "comment": ""
@@ -82,31 +85,32 @@
         },
         {
             "name": "ScoreCone",
+            "max_decel": 3,
             "waypoints": [
                 {
-                    "x": 278.3465,
-                    "y": -36.72,
+                    "x": 268.3465,
+                    "y": -40.72,
                     "track": 180.0,
                     "heading": 180.0,
                     "comment": ""
                 },
                 {
                     "x": 190.0,
-                    "y": -20.5,
+                    "y": -24.0,
                     "track": 180.0,
                     "heading": 180.0,
                     "comment": ""
                 },
                 {
                     "x": 119.0,
-                    "y": -20.5,
+                    "y": -24.0,
                     "track": 180.0,
                     "heading": 180.0,
                     "comment": ""
                 },
                 {
-                    "x": 69.74,
-                    "y": -20.5,
+                    "x": 71.74,
+                    "y": -24.0,
                     "track": 180.0,
                     "heading": 180.0,
                     "comment": ""
