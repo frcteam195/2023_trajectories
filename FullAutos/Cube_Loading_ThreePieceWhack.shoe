@@ -1,13 +1,14 @@
 {
-    "name": "Cube_Loading_ThreePieceBumper",
-    "path_count": 5,
+    "name": "Cube_Loading_ThreePieceWhack",
+    "path_count": 4,
     "paths": [
         {
             "name": "GatherCone1",
+            "max_decel": 3,
             "waypoints": [
                 {
-                    "x": 72.0,
-                    "y": -198.5,
+                    "x": 104.0,
+                    "y": -177.0,
                     "track": 0.0,
                     "heading": 0.0,
                     "comment": ""
@@ -23,6 +24,7 @@
         },
         {
             "name": "ScoreCone1",
+            "max_decel": 3,
             "waypoints": [
                 {
                     "x": 268.0,
@@ -49,6 +51,7 @@
         },
         {
             "name": "GatherCube1",
+            "max_decel": 3,
             "waypoints": [
                 {
                     "x": 69.74,
@@ -75,6 +78,7 @@
         },
         {
             "name": "ScoreCube1",
+            "max_decel": 3,
             "waypoints": [
                 {
                     "x": 278.3465,
@@ -102,32 +106,6 @@
                     "y": -174.5,
                     "track": -180.0,
                     "heading": 0.0,
-                    "comment": ""
-                }
-            ]
-        },
-        {
-            "name": "Climb",
-            "waypoints": [
-                {
-                    "x": 69.74,
-                    "y": -174.5,
-                    "track": 0.0,
-                    "heading": 0.0,
-                    "comment": ""
-                },
-                {
-                    "x": 111.0,
-                    "y": -129.0,
-                    "track": 0.0,
-                    "heading": 0.0,
-                    "comment": ""
-                },
-                {
-                    "x": 188.0,
-                    "y": -127.0,
-                    "track": 0.0,
-                    "heading": -90.0,
                     "comment": ""
                 }
             ]
