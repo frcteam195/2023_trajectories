@@ -1,0 +1,94 @@
+{
+    "name": "Cube_Bump_TwoPieceClimb",
+    "path_count": 3,
+    "paths": [
+        {
+            "name": "GatherCube",
+            "waypoints": [
+                {
+                    "x": 168.0,
+                    "y": -17.0,
+                    "track": -24.0,
+                    "heading": 180.0,
+                    "comment": ""
+                },
+                {
+                    "x": 234,
+                    "y": -46,
+                    "track": -44.0,
+                    "heading": 135.0,
+                    "comment": ""
+                },
+                {
+                    "x": 276.3465,
+                    "y": -82.72,
+                    "track": -44.0,
+                    "heading": 135.0,
+                    "comment": ""
+                }
+            ]
+        },
+        {
+            "name": "ScoreCube",
+            "waypoints": [
+                {
+                    "x": 276.3465,
+                    "y": -82.72,
+                    "track": 139.0,
+                    "heading": 135.0,
+                    "comment": ""
+                },
+                {
+                    "x": 179.0,
+                    "y": -38.0,
+                    "track": 180.0,
+                    "heading": 180.0,
+                    "comment": ""
+                },
+                {
+                    "x": 110.0,
+                    "y": -38.0,
+                    "track": 180.0,
+                    "heading": 180.0,
+                    "comment": ""
+                },
+                {
+                    "x": 69.74,
+                    "y": -47.5,
+                    "track": 180.0,
+                    "heading": 180.0,
+                    "comment": ""
+                }
+            ]
+        },
+        {
+            "name": "Climb",
+            "max_accel":1.4,
+            "max_decel": 1.3,
+            "accel_smoothing": false,
+            "waypoints": [
+                {
+                    "x": 69.74,
+                    "y": -47.5,
+                    "track": -45.0,
+                    "heading": 180.0,
+                    "comment": ""
+                },
+                {
+                    "x": 102.74,
+                    "y": -88.5,
+                    "track": -45.0,
+                    "heading": -90.0,
+                    "comment": ""
+                },
+                {
+                    "x": 175.74,
+                    "y": -101.5,
+                    "track": 0.0,
+                    "heading": -90.0,
+                    "comment": ""
+                }
+            ]
+        }
+    ]
+}
