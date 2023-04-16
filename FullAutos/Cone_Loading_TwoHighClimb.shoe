@@ -39,7 +39,7 @@
                     "comment": ""
                 },
                 {
-                    "x": 65.0,
+                    "x": 67.74,
                     "y": -174.0,
                     "track": 180.0,
                     "heading": 180.0,
@@ -54,7 +54,7 @@
             "accel_smoothing": false,
             "waypoints": [
                 {
-                    "x": 65,
+                    "x": 67.74,
                     "y": -176.5,
                     "track": 45.0,
                     "heading": 180.0,
