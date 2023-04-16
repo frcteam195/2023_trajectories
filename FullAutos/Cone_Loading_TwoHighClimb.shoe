@@ -2,9 +2,8 @@
     "name": "Cone_Loading_TwoHighClimb",
     "path_count": 3,
     "paths": [
-         {
+        {
             "name": "GatherCube",
-            "max_velocity": 120,
             "waypoints": [
                 {
                     "x": 66.74,
@@ -15,54 +14,33 @@
                 },
                 {
                     "x": 272.3465,
-                    "y": -186.25,
+                    "y": -180.0,
                     "track": 0.0,
                     "heading": 180.0,
-                    "comment": "",
-                    "offsets": {
-                        "red": {
-                            "x": -5.0,
-                            "y": 4.0
-                        },
-                        "blue": {
-                            "x": 0,
-                            "y": 4.0
-                        }
-                    }
+                    "comment": ""
                 }
             ]
         },
         {
             "name": "ScoreCube",
-            "max_decel": 2.5,
             "waypoints": [
                 {
                     "x": 272.3465,
-                    "y": -186.25,
-                    "track": 180.0,
-                    "heading": 180.0,
-                    "comment": "",
-                    "offsets": {
-                        "red": {
-                            "x": -5.0,
-                            "y": 4.0
-                        },
-                        "blue": {
-                            "x": 0.0,
-                            "y": 4.0
-                        }
-                    }
-                },
-                {
-                    "x": 165.0,
-                    "y": -184.25,
+                    "y": -180.0,
                     "track": 180.0,
                     "heading": 180.0,
                     "comment": ""
                 },
                 {
-                    "x": 65,
-                    "y": -176.5,
+                    "x": 160.0,
+                    "y": -180.0,
+                    "track": 180.0,
+                    "heading": 180.0,
+                    "comment": ""
+                },
+                {
+                    "x": 65.0,
+                    "y": -174.0,
                     "track": 180.0,
                     "heading": 180.0,
                     "comment": ""
