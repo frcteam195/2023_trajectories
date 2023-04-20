@@ -63,7 +63,6 @@
         },
         {
             "name": "GatherCone",
-            "max_decel": 2.2,
             "waypoints": [
                 {
                     "x": 69.74,
