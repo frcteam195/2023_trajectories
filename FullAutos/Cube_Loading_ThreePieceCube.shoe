@@ -7,21 +7,14 @@
             "waypoints": [
                 {
                     "x": 66.74,
-                    "y": -173.5,
-                    "track": 0.0,
-                    "heading": 180.0,
-                    "comment": ""
-                },
-                {
-                    "x": 244.3465,
-                    "y": -182,
+                    "y": -196.5,
                     "track": 0.0,
                     "heading": 180.0,
                     "comment": ""
                 },
                 {
                     "x": 272.3465,
-                    "y": -182,
+                    "y": -186.25,
                     "track": 0.0,
                     "heading": 180.0,
                     "comment": ""
@@ -33,21 +26,21 @@
             "waypoints": [
                 {
                     "x": 272.3465,
-                    "y": -182,
+                    "y": -186.25,
                     "track": 180.0,
                     "heading": 180.0,
                     "comment": ""
                 },
                 {
                     "x": 161.0,
-                    "y": -182,
+                    "y": -184.25,
                     "track": 180.0,
                     "heading": 180.0,
                     "comment": ""
                 },
                 {
                     "x": 80.0,
-                    "y": -174,
+                    "y": -176.5,
                     "track": 180.0,
                     "heading": 180.0,
                     "comment": ""
@@ -56,66 +49,77 @@
         },
         {
             "name": "GatherCubeTwo",
-            "max_velocity": 100,
             "waypoints": [
                 {
                     "x": 80.0,
-                    "y": -174.0,
+                    "y": -176.5,
                     "track": 0.0,
                     "heading": 180.0,
                     "comment": ""
                 },
                 {
                     "x": 145.0,
-                    "y": -181.75,
+                    "y": -187.0,
                     "track": 0.0,
                     "heading": 180.0,
                     "comment": ""
                 },
                 {
-                    "x": 214.0,
-                    "y": -178.0,
-                    "track": 15.0,
-                    "heading": 225.0,
+                    "x": 225.0,
+                    "y": -172.0,
+                    "track": 35.0,
+                    "heading": -146.0,
                     "comment": ""
                 },
                 {
                     "x": 269.3465,
-                    "y": -138.75,
-                    "track": 45.0,
+                    "y": -142.72,
+                    "track": 35.0,
                     "heading": 225.0,
-                    "comment": ""
+                    "comment": "",
+                    "offsets": {
+                    "red": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "blue": {
+                        "x": 0.0,
+                        "y": -2.0
+                    }
+                }
                 }
             ]
         },
         {
             "name": "ScoreCubeTwo",
-            "max_velocity": 100,
             "waypoints": [
                 {
                     "x": 269.3465,
-                    "y": -138.75,
-                    "track": 225.0,
+                    "y": -142.72,
+                    "track": 215.0,
                     "heading": 225.0,
-                    "comment": ""
+                    "comment": "",
+                    "offsets": {
+                    "red": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "blue": {
+                        "x": 0.0,
+                        "y": -2.0
+                    }
+                    }
                 },
                 {
-                    "x": 214.0,
-                    "y": -172.0,
-                    "track": 195.0,
-                    "heading": 225.0,
-                    "comment": ""
-                },
-                {
-                    "x": 145.0,
-                    "y": -174.0,
+                    "x": 148.0,
+                    "y": -183.0,
                     "track": 180.0,
                     "heading": 180.0,
                     "comment": ""
                 },
                 {
-                    "x": 74.0,
-                    "y": -166.0,
+                    "x": 75.0,
+                    "y": -174.0,
                     "track": 180.0,
                     "heading": 180.0,
                     "comment": ""
