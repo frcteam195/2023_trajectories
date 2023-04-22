@@ -84,7 +84,8 @@
                     "y": -138.75,
                     "track": 45.0,
                     "heading": 225.0,
-                    "comment": """offsets": {
+                    "comment": "",
+                    "offsets": {
                         "red": {
                             "x": 0.0,
                             "y": -2.0
@@ -106,7 +107,8 @@
                     "y": -138.75,
                     "track": 225.0,
                     "heading": 225.0,
-                    "comment": """offsets": {
+                    "comment": "",
+                    "offsets": {
                         "red": {
                             "x": 0.0,
                             "y": -2.0
@@ -136,7 +138,7 @@
                     "y": -166.0,
                     "track": 180.0,
                     "heading": 180.0,
-                    "comment": ",
+                    "comment": "",
                     "offsets": {
                         "red": {
                             "x": 0.0,
