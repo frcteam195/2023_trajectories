@@ -100,7 +100,7 @@
         },
         {
             "name": "ScoreCone",
-            "max_decel": 2.2,
+            "max_decel": 2.5,
             "waypoints": [
                 {
                     "x": 268,
