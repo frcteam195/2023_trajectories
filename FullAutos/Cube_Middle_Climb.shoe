@@ -1,6 +1,6 @@
 {
     "name": "Cube_Middle_Climb",
-    "path_count": 3,
+    "path_count": 2,
     "paths": [
         {
             "name": "Rotate",
@@ -23,41 +23,21 @@
             ]
         },
         {
-            "name": "MoveBonus",
-            "max_velocity": 60,
+            "name": "Climb",
+            "max_accel":1.4,
+            "max_decel": 1.3,
             "waypoints": [
                 {
-                    "x": 92.0,
+                    "x": 69.74,
                     "y": -108.5,
                     "track": 0.0,
                     "heading": 90.0,
                     "comment": ""
                 },
                 {
-                    "x": 242.0,
-                    "y": -107.0,
+                    "x": 157.0,
+                    "y": -86.0,
                     "track": 0.0,
-                    "heading": 90.0,
-                    "comment": ""
-                }
-            ]
-        },
-        {
-            "name": "Climb",
-            "max_accel":1.4,
-            "max_decel": 1.3,
-            "waypoints": [
-                {
-                    "x": 242.0,
-                    "y": -107.0,
-                    "track": 178.0,
-                    "heading": 90.0,
-                    "comment": ""
-                },
-                {
-                    "x": 158.0,
-                    "y": -106.0,
-                    "track": 177.0,
                     "heading": 90.0,
                     "comment": ""
                 }
