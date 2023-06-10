@@ -6,7 +6,7 @@
             "name": "GatherCube",
             "waypoints": [
                 {
-                    "x": 173.0,
+                    "x": 168.0,
                     "y": -17.0,
                     "track": -24.0,
                     "heading": 180.0,
@@ -80,24 +80,44 @@
                     "comment": ""
                 },
                 {
-                    "x": 272.0,
-                    "y": -52.0,
+                    "x": 268,
+                    "y": -46.5,
                     "track": 0.0,
                     "heading": 180.0,
-                    "comment": ""
+                    "comment": "",
+                    "offsets": {
+                        "red": {
+                            "x": 4.0,
+                            "y": 0.0
+                        },
+                        "blue": {
+                            "x": 0.0,
+                            "y": 6.0
+                        }
+                    }
                 }
             ]
         },
         {
             "name": "ScoreCone",
-            "max_decel": 2.5,
+            "max_decel": 2.2,
             "waypoints": [
                 {
-                    "x": 272.0,
-                    "y": -52.0,
+                    "x": 268,
+                    "y": -46.5,
                     "track": 180.0,
                     "heading": 180.0,
-                    "comment": ""
+                    "comment": "",
+                    "offsets": {
+                        "red": {
+                            "x": 4.0,
+                            "y": 0.0
+                        },
+                        "blue": {
+                            "x": 0.0,
+                            "y": 6.0
+                        }
+                    }
                 },
                 {
                     "x": 190.0,
@@ -114,11 +134,21 @@
                     "comment": ""
                 },
                 {
-                    "x": 62.0,
-                    "y": -38.5,
+                    "x": 71.0,
+                    "y": -32.0,
                     "track": 180.0,
                     "heading": 180.0,
-                    "comment": ""
+                    "comment": "",
+                    "offsets": {
+                        "red": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "blue": {
+                            "x": 0.0,
+                            "y": 7.0
+                        }
+                    }
                 }
             ]
         }
