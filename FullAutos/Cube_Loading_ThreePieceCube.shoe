@@ -66,15 +66,15 @@
                     "comment": ""
                 },
                 {
-                    "x": 117.0,
-                    "y": -180.0,
+                    "x": 116.0,
+                    "y": -181.0,
                     "track": 0.0,
                     "heading": 180.0,
                     "comment": ""
                 },
                 {
-                    "x": 214.0,
-                    "y": -183.0,
+                    "x": 199.0,
+                    "y": -176.0,
                     "track": 15.0,
                     "heading": 225.0,
                     "comment": ""
@@ -91,6 +91,7 @@
         {
             "name": "ScoreCubeTwo",
             "max_velocity": 100,
+            "max_decel": 2.5,
             "waypoints": [
                 {
                     "x": 269.3465,
