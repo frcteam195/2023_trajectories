@@ -57,20 +57,40 @@
                     "y": -47.5,
                     "track": 180.0,
                     "heading": 180.0,
-                    "comment": ""
+                    "comment": "",
+                    "offsets": {
+                        "red": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "blue": {
+                            "x": 5.0,
+                            "y": 0.0
+                        }
+                    }
                 }
             ]
         },
         {
             "name": "GatherCone",
-            "max_decel": 2.5,
+            "max_decel": 2.8,
             "waypoints": [
                 {
                     "x": 69.74,
                     "y": -47.5,
                     "track": 0.0,
                     "heading": 180.0,
-                    "comment": ""
+                    "comment": "",
+                    "offsets": {
+                        "red": {
+                            "x": 0.0,
+                            "y": 5.0
+                        },
+                        "blue": {
+                            "x": 0.0,
+                            "y": 0.0
+                        }
+                    }
                 },
                 {
                     "x": 125.0,
